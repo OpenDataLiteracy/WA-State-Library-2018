@@ -1,8 +1,4 @@
-Instructions for creating a new internship repository:
-
-1. Clone this repository
-2. Modify the `readme.md` to include a brief description of the project including a link to the intern, sponsors, etc. (The actual project description can change over time - this is just a placeholder). 
-3. Add issues for the intern (or candidate) to complete. This should include deadlines for what must be accomplished BEFORE the internship begigs (see below). 
+See  WA-State-Library-2018/WA State Library Proposal.docx for project proposal description.
 
 
 The issues that each intern should complete are as follows
