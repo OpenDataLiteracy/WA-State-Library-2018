@@ -1,4 +1,4 @@
-## See  `WA-State-Library-2018/WA State Library Proposal.docx` for project proposal description.
+## See  `PlanOfWork.md` for most recently updated project description.
 
 ## The issues that each intern should complete are as follows
 
