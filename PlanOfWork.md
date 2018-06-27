@@ -11,8 +11,11 @@ The University of Washington Information School’s Open Data Literacy (ODL) pro
 **Goals**     
 What is this project supposed to achieve, and why?
 
-- Create a public repository of materials from the Data Equity for Mainstreet (DEMS) program, a John S. and James L. Knight Foundation project piloting open data education at more than 20 public library systems (and several academic libraries) in Washington state and California since Fall 2017. The repository will serve as a curriculum resource for all libraries, and lay the foundation for WSL’s open data outreach to public libraries statewide. 
-- Develop plan to assess readiness of public libraries statewide for fostering open data literacy and advising public agencies about the usability of open data they publish (without compromising patron confidentiality or other ethical obligations), and identify ways WSL might support public libraries’ role in promoting open data literacy and quality. Plan should reflect foundational review of DEMS project and literature, along with expert consultation. Further steps may involve instrument design, testing and launch.  
+*Create a public repository of materials from the Data Equity for Mainstreet (DEMS) program*
+Data Equity for Main Street (DEMS), a John S. and James L. Knight Foundation project, has piloted open data education at more than 20 public library systems (and several academic libraries) in Washington state and California since Fall 2017. The repository will serve as a curriculum resource for all libraries. Kathleen will investigate options for the Washington State Library to 
+
+*Conduct an environmental scan to assess readiness of public libraries to offer open data services*
+statewide for fostering open data literacy and advising public agencies about the usability of open data they publish (without compromising patron confidentiality or other ethical obligations), and identify ways WSL might support public libraries’ role in promoting open data literacy and quality. 
 - Propose next steps for ODL and WSL to collaborate in incubating public library open data projects. Propose continued ODL internship contributions through at least Summer 2019. The proposal should address the role of other state agencies with significant open data initiatives, such as the Washington State Archives. 
 - Draft presentation material about Washington State libraries’ open data literacy progress, and the role of the state library, for dissemination in journals or at conferences.
 
@@ -22,7 +25,7 @@ Earlier work plan drafts included activities to help libraries themselves publis
 
 *Time allowing*
 
-Earlier work plan drafts included possible site visits to participating libraries. Kathleen is enthusiastically open to site visits, as time allows. She suggests revisiting this option after the updating the Assessment Plan in mid-July. 
+Earlier work plan drafts included possible site visits to participating libraries. Kathleen is enthusiastically open to site visits, as time allows. 
 
 
 **Deliverables**    
