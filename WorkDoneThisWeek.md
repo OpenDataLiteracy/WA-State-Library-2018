@@ -7,8 +7,7 @@
 - [update Plan of Work document accordingly]
 
 **Organizing Data Equity for Main Street (DEMS) repository**
-- [generate Repository outline]
-- [seek agreement]
+- [generate Repository outline; post to GitHub by 7/28/18 and flag supervisors]
 - [explore whether State Library can/wants to host repository as GitHub Organization]
 - [prepare documents for upload]]
 
