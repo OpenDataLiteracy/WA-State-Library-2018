@@ -7,20 +7,20 @@
 - [update Plan of Work document accordingly]
 
 **Organizing Data Equity for Main Street (DEMS) repository**
-- [generate Repository outline; post to GitHub by 7/28/18 and flag supervisors]
+- Generated repository outline draft. Pushed to GitHub. Created Google Doc for suggestions/comments/questions. Flagged sponsors.
 - [explore whether State Library can/wants to host repository as GitHub Organization]
-- [prepare documents for upload]]
-- [Go through Curriculum Guide thoroughly (prep for interviews)]
+
 
 **Environmental Scan**
-- [set up meetings with Mt. Vernon, Everett libraries for 7/5 if possible]
-- [set up times to talk to Spokane PL, San Jose, Sunnyvale at least]
-- [identify which libraries might be good for site visits]
-- [set up document for mapping open data publishing among cities/counties in Washington state]
+- Set up July 5th meeting with Danielle Torgerson Everett Public Library re: library-govt open-data partnership
+- Gathered information about Data Equity's recruiting efforts, sought comments from Data Equity leaders about possible signs of library readiness to be open-data leaders
 - [read through evaluations, message boards for evaluative material]
-- [find out how Data Equity recruited its participating libraries]
-- [develop sampling plan for non-participating libraries; identify instrument for gathering info]
+- Went through Beta Testers Curriculum Guide thoroughly, in preparation for interviewing Data Equity librarians. 
+- [set up times to talk to Spokane PL, San Jose, Sunnyvale at least]
+- [set up document for mapping open data publishing among cities/counties in Washington state]
 - [start drafting interview protocol for Data Equity libraries]
+- [identify which libraries might be good for site visits]
+- [develop sampling plan for non-participating libraries; identify instrument for gathering info]
 
 **Next steps between WSL/ODL**
 - Discussed WSL-Services data vis. project with Evelyn
