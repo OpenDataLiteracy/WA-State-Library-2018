@@ -5,7 +5,7 @@
 
 ## Organizing Data Equity for Main Street (DEMS) repository
 - Generated repository outline draft. Pushed to GitHub. Created Google Doc for suggestions/comments/questions. Flagged sponsors.
-- [explore whether State Library can/wants to host repository as GitHub Organization]
+-  Discussed with Evelyn option of State Library hosting as GitHub Organization; Evelyn will follow up next week
 
 ## Environmental Scan
 ### Interview schedule
