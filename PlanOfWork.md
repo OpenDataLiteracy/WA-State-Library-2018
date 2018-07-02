@@ -31,7 +31,9 @@ Earlier work plan drafts included possible site visits to participating librarie
 
 ### Interim     
 - Weekly documentation in GitHub and two public blog posts, as required by the ODL internship guidelines. These will also serve as updates to Evelyn Lindberg at WSL, and Will Saunders at OCIO/Data Equity.
+- July 11 *Medium* blog post
 - Presentation about ODL internship work at July 11 WSL staff meeting.
+- August 8 *Medium* blog post
 
 ### End of project 
 - Public repository of DEMS materials. 
