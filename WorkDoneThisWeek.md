@@ -21,6 +21,6 @@
 ## Administrative/Documentation
 - Began working on July 11 *Medium* blog post
 - Prepared slides for July 11 introductory presentation to WSL Library Development staff
-- Evaluting IRB options for use of interview material
+- Evaluating IRB options for use of interview material
 - Set up Zoom account for interviewing
 - Updated Work Done This Week
