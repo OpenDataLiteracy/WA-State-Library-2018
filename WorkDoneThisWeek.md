@@ -1,27 +1,26 @@
 # Work Done This Week
-# 29 June 2018
-*updated 29 June*
+# 6 July 2018
+*updated 6 July 2018*
 
 
 ## Organizing Data Equity for Main Street (DEMS) repository
-- Generated repository outline draft. Pushed to GitHub. Created Google Doc for suggestions/comments/questions. Flagged sponsors.
--  Discussed with Evelyn option of State Library hosting as GitHub Organization; Evelyn will follow up next week
+- Evelyn exploring whether Washington State Library can support repository as GitHub Organization
+- Continued discussion on repository content with Data Equity leaders and participating libraries
 
 ## Environmental Scan
-### Interview schedule
-- Set up 7/6 meetings with Danielle Torgerson (Everett PL) & Isaac Huffman (Mount Vernon) re Data Equity, library/govt partnerships
-- Sent requests for interviews to other sources recommended by Will S., Debbie F., Cindy 
+### Interviews 
+- Drafted interview questions for Data Equity participating libraries, libraries that have advised local government on open data publishing
+- Set up interviews with Erin Berman/Julie Oborny (San Jose), Stephanie Beverage (Huntington Beach), Phil Gunderson (San Diego) 
+- Interviewed Isaac Huffman (Mount Vernon City Library) re Data Equity participation; started writing up notes
+- Interviewed Danielle Torgerson, Abigail Cooley (Everett Public Library) re open-data collaboration with local government; started writing up notes
+- Talked with Nic W. about sampling non-Data-Equity libraries in Washington state 
 ### Research
-- Gathered information about Data Equity's recruiting efforts, sought comments from Data Equity leaders about possible signs of library readiness to be open-data leaders
-- Went through Beta Testers Curriculum Guide thoroughly, in preparation for interviewing Data Equity librarians. 
 - Continued reading through Data Equity evaluations, message boards for commentary
-- Reviewed library-govt partnership literature from Nic Weber's GitHub site
-- Started drafting questions for interview
-
-## Next steps between WSL/ODL
-- Discussed WSL-Services data vis. project with Evelyn
-- Discussed role for open data in existing WSL digital literacy services (Imagine Academy) with Elizabeth Laukea at WSL. Elizabeth added me to Imagine Academy so I can explore curriculum for open-data openings
+- Continued literature review on library open-data roles
 
 ## Administrative/Documentation
-- Met with Nic @ ODL about work plan. Incorporated Nic's suggestions in updated Plan of Work. Consulted sponsors. Updated Plan of Work accordingly.
+- Began working on July 11 *Medium* blog post
+- Prepared slides for July 11 introductory presentation to WSL Library Development staff
+- Evaluting IRB options for use of interview material
+- Set up Zoom account for interviewing
 - Updated Work Done This Week
