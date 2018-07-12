@@ -3,16 +3,18 @@
 *Updated 12 July 2018, listening to recording.*
 
 ## How the Library learned about Data Equity for Main Street
-- DEMS1 heard about Data Equity at WLA, where Will Saunders and others presented the project.
+- DEMS1 heard about Data Equity at a WLA meeting, where Will Saunders and others presented the project.
 
 ## Why the Library chose to participate in Data Equity
 ### Organizational goals
-- The library had already set a goal to be involved in a project with a research element. Data Equity was such a project.
-- To lead. DEMS1 wanted to explore how data fit into the library's future service to its community. (DEMS1 also explored virtual reality for the same reason -- was skeptical at first but found that VR may expand access to experiential learning.)
+- DEMS1 is the library director and made the decision to participate.
+- The library had already set a goal in strategic planning to be involved in a project with a research or experimental elements. Data Equity was such a project.
+- To lead. DEMS1 wanted to explore how data fit as a "collection element" in the library's future service to its community. (DEMS1 also explored virtual reality for the same reason -- was skeptical at first but found that VR may expand access to experiential learning.)
+    - DEMS1 thinks there is not a strong value case for data, as it currently stands. >>There may be a future benefit [of data], and so oftentimes you get on board before things work.>> DEMS1 wants to say there's potential. DEMS1 believes that the best materials are summary materials -- that summarizes a lot of different sources together. Data is >>fragmented and takes a lot of human-processing time>>, so it's a >>speciality or boutique collection element>>. Very few people know how to handle it correctly, and very few have a need-based reason to use it in daily practice. DEMS1 think the >>only way to make data manageable is through a tool ...that allows you to do that tertiary look first, and then you can dive into the specifics and interpret more. Without that, the raw data is meaningless -- it's a MARC record to someone who doesn't understand MARC.>>
 ### Facilities
 - The library had space, equipment and communication channels normally needed to launch classes.
 ### Staff comfort with technology
-- DEMS1 led on the project, i.e., attended Train-the-Trainer and then led instruction for the four classes. DEMS1 has a background in data -- took the National Library of Medicine data series [*HSRIC? Check recording*] and achieved blackbelt level in the Six Sigma process improvement system.
+- DEMS1 led on the project, i.e., attended Train-the-Trainer and then led instruction for the four classes. DEMS1 has a background in data -- took the National Library of Medicine data series (involved a five-day retreat) and, as a consultant previously, achieved blackbelt level in the Six Sigma process improvement system.
 
 ## How much of the Data Equity program did the library complete?
 - DEMS1 attended Train-the-Trainer and taught all four classes, the first two in the central library branch and the last two in another branch with a computer lab that better accommodated hands-on, interactive learning.
@@ -41,7 +43,7 @@
 - DEMS1 believes reference librarians absolutely should know open data.
 - Open data empowers people to answer their own questions when no single source addresses the question, and command of open data reinforces information literacy, by building in verification and critical thinking (especially in a world where many parties use data to tell the story they want to tell).
 - DEMS1 believes information management -- including management of data -- means making informed choices to save "meaningful" information, not everything because it "might" be useful someday. Information technology has made it tempting to save everything. Finding meaning still requires human effort, even when we use machines to find patterns.
-- DEMS1 also supports the broader spirit behind open data. DEMS1 finds the current publishing ecosystem unstainable, and suppports efforts to keep information from being hidden behind proprietary walls.
+- DEMS1 also supports the broader spirit behind open data. DEMS1 finds the current publishing ecosystem unsustainable, and supports efforts to keep information from being hidden behind proprietary walls.
 
 ## Has the library advised local government about open data publishing?
 - The library has had conversations with local government about the benefits of open-data publishing.
