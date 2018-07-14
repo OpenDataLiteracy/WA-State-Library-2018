@@ -17,6 +17,7 @@
 
 ### Research
 - Created spreadsheet, began pulling together open data portals by locality in WA
+- Created spreadsheet, began comparing open-data publishing by state libraries
 
 ## Administrative/Documentation
 - Finished and published *Medium* post
