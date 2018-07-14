@@ -51,33 +51,33 @@ Earlier work plan drafts included possible site visits to participating librarie
 ### Create repository for DEMS materials
 - Review BaseCamp artifacts, consult sponsors about repository contents. *Done*
 - Generate draft of repository elements, for review by sponsors. *Done*
-- Explore possibility of WSL sponsorship as GitHub Organization. *By July 9*
-- Finalize repository elements, platform choice/sponsorship. *By July 9*
-- Prepare and upload content to repository. *By July 20*
-- Review repository with sponsors, incorporate improvements. Agree on public launch communication. *By July 25*
-- Finalize repository, promote publicly, hand off. *By July 30*
+- Explore possibility of WSL sponsorship as GitHub Organization. *Done; Data Equity prefers independent platform*
+- Finalize repository elements, platform choice/sponsorship. *By July 20*
+- Prepare and upload content to repository. *By Aug. 3*
+- Review repository with sponsors, incorporate improvements. Agree on public launch communication. *By Aug. 7*
+- Finalize repository, promote publicly, hand off. *By Aug. 13*
 
 ### Conduct environmental scan, generate report
-- Review DEMS materials and conduct literature review. *By July 9*
-- Seek interviews with all DEMS participating librarians in Washington State, and recommended DEMS librarians in California. *By July 23*
-- Develop sampling and information-gathering plan for non-DEMS public libraries. *By July 9*
-- Seek information from non-DEMS public libraries. *By July 23*
-- Gather information from at least three library systems that have collaborated with local government on open data publishing. *By July 23*
-- Generate list of open data publishing by local governments in Washington State. *By July 23*
-- Generate memo on findings about library readiness, library/local government partnerships, Data Equity takeaways, and potential next steps for ODL/WSL through Summer 2019. Identify any final research needed. Seek review by ODL faculty, sponsors. *By July 27*
-- Generate draft final report, for review by ODL and sponsors. *By Aug. 6*
+- Review DEMS materials and conduct literature review. *Done*
+- Seek interviews with all DEMS participating librarians in Washington State, and recommended DEMS librarians in California. *By July 27*
+- Develop sampling and information-gathering plan for non-DEMS public libraries. *Done*
+- Seek information from non-DEMS public libraries. *By July 27*
+- Gather information from at least three library systems that have collaborated with local government on open data publishing. *By July 27*
+- Generate list of open data publishing by local governments in Washington State. *By July 27*
+- Generate memo on findings about library readiness, library/local government partnerships, Data Equity takeaways, and potential next steps for ODL/WSL through Summer 2019. Identify any final research needed. Seek review by ODL faculty, sponsors. *By Aug. 1*
+- Generate draft final report, for review by ODL and sponsors. *By Aug. 10*
 - Finalize report and presentation. *By Aug. 13.*
 
 ### Propose next steps for ODL and WSL collaboration 
-- Generate proposal for review, as part of draft final report. *By Aug. 6*
+- Generate proposal for review, as part of draft final report. *By Aug. 10*
 - Finalize proposal in final report. *By Aug. 13*
 
 ### Present internship work 
-- Generate blog post on *Medium*. *By July 11*
-- Prepare short presentation for July 11 WSL Library Development staff meeting. *By July 11*
+- Generate blog post on *Medium*. *Done*
+- Prepare short presentation for July 11 WSL Library Development staff meeting. *Done*
 - Generate second blog post on *Medium*.  *By Aug. 8*
-- Prepare final presentation. *By Aug. 13*
-- Conduct final presentation at UW. *Aug. 15-17, TBD*
+- Prepare and publicly present. *By Aug. 10*
+- Deliver final report *By Aug. 15*
 
 ### *Changes to the work plan* 
 Priorities will be adjusted as needed in consultation with project sponsors and the ODL team. All changes will be documented on Github and in Kathleen’s minimum weekly reports.
