@@ -1,28 +1,24 @@
 # Work Done This Week
-# 13 July 2018
-*updated 13 July 2018*
+# 20 July 2018
+*updated 17 July 2018*
+*This file reflects the most recent activity. You can see previous weeks' activities by reviewing this file's history (click on the History tab above) which shows previous versions of the file.*
 
 
 ## Organizing Data Equity for Main Street (DEMS) repository
-- Continued discussion on repository platform and content with Data Equity leaders and participating libraries
-- Set July 18 meeting with Will S. to firm up next steps
+- Meeting with Will S. to firm up platform, artifacts for repository.
 
 ## Environmental Scan
 ### Interviews 
-- Interviewed four Data Equity for Main Street librarians in CA
 - Reviewed recordings and updated notes from previous interviews
-- Requested interviews with four more Data Equity library systems in WA
-- Worked with Evelyn L. at State Library to identify sample of non-DEMS public libraries in WA to contact (two from each population tier, e.g., over 250K served, for a total of 12)
-- Requested interviews from non-DEMS library systems
+- Updated Environmental Scan Themes document with material from recent interviews
+- Scheduled interviews with four more WA libraries.
 
 ### Research
-- Created spreadsheet, began pulling together open data portals by locality in WA
-- Created spreadsheet, began comparing open-data publishing by state libraries
+- Continued populating spreadsheet on open data portals by locality in WA
+- Continued populating spreadsheet on open-data publishing by state libraries
 
 ## Administrative/Documentation
-- Finished and published *Medium* post
-- Prepared slides and conducted July 11 presentation for WSL Library Development staff
 - Continued evaluating IRB options for any future publication
-- Extended initial research period and repository schedule in PlanOfWork
-- Proposed early-August meeting with Cindy Aden to discuss findings 
-- Updated Work Done This Week
+- Checked in with Nic W. on repository issues, state of research
+- [Proposed early-August meeting with Cindy Aden to discuss findings] 
+- [Updated Work Done This Week]

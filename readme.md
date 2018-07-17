@@ -14,7 +14,7 @@
 - 2 Blog Posts to be posted on ODL Medium blog (https://medium.com/open-data-literacy):
   - July 11
   - August 8
-- 1x End of the Year Presentation: 
-  - Date TBD late August;
+- End of the Year Presentation: 
+  - August 10
 - Weekly updates / progress reports, etc: 
   - Fridays each week of internship
