@@ -44,6 +44,16 @@
 - DEMS2: Virtually any capacity support
 - DEMS2: Ready-to-use materials, such as marketing flyers.
 
+## Library role: Creating collections of local open data
+- [Generated from pulling together open data myself]
+
+## Users are interested in data to solve problems, but they also want to have fun or be amazed by something cool.
+- DEMS2a/Will S.
+- Sports data discussion on BaseCamp
+
+## User feedback benefits open data publishers
+- DEMS2/Will S. Government publishers often find user feedback encouraging and motivating. Without feedback, publishers feel like they are publishing into a void, and simply fulfilling yet another organizational directive. 
+
 
 
 
