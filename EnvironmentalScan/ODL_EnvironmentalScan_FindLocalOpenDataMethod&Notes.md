@@ -2,7 +2,8 @@
 
 ## Counties and cities
 - Search "open data" + city/county name 
-- Search city or county official website, then search for "data"
+- Search city or county official website, then search for "data" 
+- Sampling: Look at all counties and largest city by population in each county (using OFM's *Population Trends 2017*)
 
 ## State open data portals
 - Explore various open data links on access.wa.gov to understand distinctions better
@@ -21,6 +22,8 @@
 ### Can libraries at least treat open data like any other collection element, i.e., pull together collections of open data about the region?
 ### What's the effect of legal disclaimers on users? Does this dampen the openness of the data?
 - Skagit County *Data Use and Legal Responsibility by Users of County GIS Data* (https://www.skagitcounty.net/GIS/Documents/Misc/DDRF%20GI.pdf)
+### State library opportunity: Create a lib guide page on open data publishing
 
 ## Future research
-### Evaluate quality of open data provided
+### Evaluate quality of open data provided, look more deeply at what data is filed under categories such as Environment, Housing 
+### Why are some GIS services offered for a paid subscription in Clark Co.? Are these services offered for free by other county GIS sites? Is any meaningful access to public information behind the premium wall? 

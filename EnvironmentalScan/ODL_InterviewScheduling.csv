@@ -1,28 +1,39 @@
-﻿Name,Library,position,DEMS pos.,DEMS wrap?,lib/govt coop?,last contact date,contact medium,intvw date,notes
+﻿Name in public docs,Organization,DEMS CC,DEMS Alpha,DEMS Beta,DEMS wrap?,lib/govt coop?,last contact date,intvw date,notes
+DEMS2a,Everett PL,n,n,y,y,y,20180629,20180705,
+DEMS1,Mount Vernon City Library,n,n,y,y,,20180629,20180705,
+,Spokane Public Library,,,,,y,,,"if on site, see if Cindy wants to join"
+,Spokane Public Library,y,y,n,y,,, ,wait on other arrangements
+,Spokane Public Library,y,y,n,y,,,,
+DEMS3,Huntington Beach PL,n,n,y,y,,20180629,20180712,
+DEMS4,San Diego PL,y,y,n,y,,20180629,20180712,
+DEMS5a,San Jose PL,y,y,y,y,y,20180629,20180713,
+DEMS5b,San Jose PL,y,y,y,y ,y,20180629,20180713,
+,Sunnyvale PL,n,n,y,y,y,20180629,20180629,email indicates they haven't consulted yet but have close partnership with city
+,"Collins Library, University of Puget Sound",n,n,y,y ,,,,
+,Asotin County Library,y,y,n,y,,20170713,,
+,Asotin County Library,y,y,n,y,,,,
+,Spokane County Public Library,n,n,y,y,,20170713,,
+,Richland Public Library,n,n,y,y,,20170713,,
+,Walla Walla County Rural Public Library,n,n,y,y, ,20170713,,"exchanging email for now, due to schedule conflicts"
+,Walla Walla County Rural Public Library,n,n,y,y,,,,
 ,,,,,,,,,
-Danielle Torgerson,Everett PL,circulation mgr,Beta tester,y,y,20180629,BaseCamp,20180705,
-Isaac Huffman,Mount Vernon City Library,director,Beta tester,y,,20180629,isaach@mountvernonwa.gov,20180705,
-Andrew Chance,Spokane PL,director,,,y,,,,"if on site, see if Cindy wants to join"
-Tara Neumann,Spokane PL,digital projects manager,,y,,, tneumann@spokanelibrary.org, ,wait on Chance arrangements
-Stephanie Beverage,Huntington Beach PL,library services administration,Beta tester,y,,20180629,stephanie.beverage@surfcity-hb.org,20180712,
-Philip Gunderson,San Diego PL,integrated library systems coordinator ,Alpha ,y,,20180629,PGunderson@sandiego.gov;, ,
-Erin Berman,San Jose PL,innovations director,"CC, Alpha",y,y,20180629,erin.berman@sjlibrary.org, ,
-Julie Oborny,San Jose PL,web librarian,"CC, Alpha",y ,y,20180629,j.oborny@gmail.com, ,
-Bryant Bao,Sunnyvale PL,"librarian, adult services",,y,y,20180629,BBao@sunnyvale.ca.gov,20180629,email indicates they haven't consulted yet but have close partnership with city
-Justin Smith,WSU Community Intelligence Lab ,"assistant professor, community & economic development",,,y,,,,
+,WA OSPI,,,,,,,,
 ,,,,,,,,,
-Benjamin Tucker,"Collins Library, Univ. of Puget Sound", ,Beta tester,y,,,btucker@pugetsound.edu,,
-Danielle Milton,Spokane County LD,,Beta tester,y,,,dmilton@scld.org,,
-Leslie Campbell Hime,Richland PL,,Beta tester,y,,,lchime@richland.lib.wa.us,,
-Mundy Mulligan,Walla Walla County Rural LD,,Beta tester,y,,,mundym@wwrurallibrary.com,,
-Rhonda Gould,Walla Walla County Rural LD,,Beta tester,y,,,rhondag@wwrurallibrary.com,,
-Jennifer Ashby,Asotin County Library,director,"CC, Alpha",y,,,,,
-Mary Neuman,Asotin County Library,asst. director,"CC, Alpha",,,,,,
-Dana Dalrymple,Spokane PL,,"CC, Alpha",,,,,,
+,WSU Community Intelligence Lab ,n,n,n,n,y,20180703,,
+,Washington State Archives,n,n,n,n,y,,,"reschedule mtg from 6/19/18, due to flooding in Aberdeen"
 ,,,,,,,,,
-Ann Glusker,NNLM/UW,,"CC, Alpha",,,,glusker@uw.edu,,
-Barbara Soots,OSPI,OER PM,CC,,,,barbara.soots@k12.wa.us,,
-Kate Laughlin,Primary Source,ED,CC,,,,kate@primarysourceseattle.com,,
+,Kalama Public Library,n,n,n,n,,20180719, ,
+,Pomeroy (Denny Ashby) Library,n,n,n,n,,20180719, ,
+,Ritzville Public Library,n,n,n,n,,20180719, ,
+,Lopez Island Library District,n,n,n,n,,20180719, ,
+NA,Camas Public Library,n,n,n,n,,20180718,NA,referred me to ND1
+ND1,Camas Public Library,n,n,n,n,,20180719,20180719,
+,Liberty Lake Municipal Library,n,n,n,n,,20180719, ,
+,Bellingham Public Library,n,n,n,n,, , ,"wait until 7/16, when new director arrives; consider connection to Whatcom Co."
+,Longview,n,n,n,n,,20180719, ,
+ND2,Tacoma,n,n,n,n,,20180713,20180724,
+,Yakima,n,n,n,n,,20180719, ,
+,KCLS,n,n,n,n,,,,7/13 asked Nic about contact
+NDx,Seattle,n,n,n,n,,20180719, ,7/13 asked Nic about contact
 ,,,,,,,,,
-,,,,,,,,,
-,Butte County (CA) PL,,,,y,,,,
+,"Eastern Washington University, Institute for Public Policy and Economic Analysis  ",NA,NA,NA,NA,,,,
