@@ -4,6 +4,7 @@
 - Search "open data" + city/county name 
 - Search city or county official website, then search for "data" 
 - Sampling: Look at all counties and largest city by population in each county (using OFM's *Population Trends 2017*)
+- Attempted to make spreadsheet listing of cities conform to OFM's list. Did not include cities with populations of <1,000
 
 ## State open data portals
 - Explore various open data links on access.wa.gov to understand distinctions better
