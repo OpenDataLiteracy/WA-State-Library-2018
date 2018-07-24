@@ -1,6 +1,7 @@
 # Work Done This Week
 # 20 July 2018
 *updated 19 July 2018*
+
 *This file reflects the most recent activity. You can see previous weeks' activities by reviewing this file's history (click on the History tab above) which shows previous versions of the file.*
 
 

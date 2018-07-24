@@ -1,0 +1,27 @@
+#  ND3 Interview Notes
+
+ND3 is library director of a small municipal library serving about 10K people, between the city and non-municipal patrons. The library's service population has more than doubled in the past 15 years. 
+
+## What is the library's service community like?
+- The community has many young families, and the library's most popular lending is for children, through 3rd grade. Although the community also has a a few retirement/assisted living communities either open or opening soon, the libary hasn't had much intersection with this population.
+- The community is highly educated, with nearly three quarters of the adult population holding a bachelor's degree.
+- The area has an active business community, although it is a "small town" business community featuring businesses such as grocerty stores or restaurants.
+- The community doesn't have a community center or many large meeting spaces, so the library is a popular gathering space for many community groups. The library's events calendar is full, and features a wide range of events, including activities like needlepoint, family-friendly events such as story time, as well as business-related meetings, health/exercise meetings, and "Tech Tuesday" or other digital literacy events. However, ND3 says the events tend to be youth-oriented (junior-high and down), and it's difficult to get adults involved. 
+- The community also has large city (100K-250K people served) and county (over 250K people served) library systems nearby, so library patrons have other choices for events and instructional programming.
+
+## Does the library publish any data about itself
+- No
+
+## What is the library's relationship with local government?
+- The library is a city department. ND3 meets with other city department heads weekly, and attends city council meetings twice a month (delivering a report once a month). 
+- The city contracts out for technology support. The library, however, has its own part-time associate who specializes in technological instruction and also provides various other support to patrons.
+
+## Would open data help the library serve its constituency?
+- Periodically, citizens become interested or upset about a particular municipal issue. However, complaints tend to go to other city officials. Citizens don't turn to the library for further information, ND3 said.
+- ND3 said they "really have reservations about how much [open data] woudl be used, as cool as it may be," because the service community doesn't exhibit this kind of curiosity. In recent years, for example, ND3 has cut back on database subscriptions because they were underused. 
+
+## What would advance the library's use of open data?
+- A curated list of open data sources, with annotations. 
+
+
+
