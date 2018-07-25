@@ -26,5 +26,5 @@
 ### State library opportunity: Create a lib guide page on open data publishing
 
 ## Future research
-### Evaluate quality of open data provided, look more deeply at what data is filed under categories such as Environment, Housing 
-### Why are some GIS services offered for a paid subscription in Clark Co.? Are these services offered for free by other county GIS sites? Is any meaningful access to public information behind the premium wall? 
+- Evaluate quality of open data provided, look more deeply at what data is filed under categories such as Environment, Housing 
+- Why are some GIS services offered for a paid subscription in Clark Co.? Are these services offered for free by other county GIS sites? Is any meaningful access to public information behind the premium wall? 
