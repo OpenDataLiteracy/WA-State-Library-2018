@@ -11,24 +11,24 @@ Delaware,Delaware Division of Libraries,[can't find it],[can't find it],[can't f
 Florida,State Library and Archives of Florida,y,y,n,n,NA,,,http://dos.myflorida.com/library-archives/services-for-libraries/more-programs/library-data-and-statistics/,
 Georgia,Georgia Public Library Service,y,y,y,n,PDF,2017,1,https://www.georgialibraries.org/lib/statistics/,Navigate from Home page by clicking Statistics under the Libraries lefthand menu. 
 Hawaii,Hawaii State Public Library System,y,y,y,n,PDF,2017,1 but,http://www.librarieshawaii.org/about-us/reports/annual-reports/,"impossible to find; navigation is from the Home page under ""About"" footer (and under ""reports""). Not machine readable."
-Idaho,Idaho Commission for Libraries,y,y,,y,xls rect,,,http://libraries.idaho.gov/stats,"thru 2017 (prelim); easiest to find from  home page (lefthand menu); gui is easy, 5star open data"
+Idaho,Idaho Commission for Libraries,y,y,,y,xls rect,2017,,http://libraries.idaho.gov/stats,"thru 2017 (prelim); easiest to find from  home page (lefthand menu); gui is easy, 5star open data"
 Illinois,Illinois State Library,y but,y but,y but,n,PDF but,2017,5,http://www.cyberdriveillinois.com/departments/library/libraries/IPLAR/iplar_data.html,"Navigation to statistics in 2 clicks from home page (For Libraries/StatisticalResourcesForLibraries) but then things get weird, with many clicks to find data, and then only partial data (in PDF). One must call to get the full dataset."
-Indiana,,,,,,,,,,
-Iowa,State Library of Iowa,y,y,y,y,xls,,,http://www.statelibraryofiowa.org/ld/a-b/statistics/publibstats/iowapublibstats,"just has PDFs on the site, but users can use a Baker-Taylor external site, WebConnect, to select data and export in Excel (lots of clicking, not intuitive); thru 2017; also features ""Data Center"" from home page"
-Kansas,,,,,,,,,,
-Kentucky,,,,,,,,,,
-Louisiana,,,,,,,,,,
-Maine,,,,,,,,,,
-Maryland,,,,,,,,,,
-Massachusetts,,,,,,,,,,
-Michigan,,,,,,,,,,
+Indiana,Indiana State Library,y,y,y,y,xls rect,2017,2,https://www.in.gov/library/plstats.htm,"also has some files in PDF, not much/any explanation, just links"
+Iowa,State Library of Iowa,y,y,y,y,xls,2017,2,http://www.statelibraryofiowa.org/ld/a-b/statistics/publibstats/iowapublibstats,"just has PDFs on the site, but users can use a Baker-Taylor external site, WebConnect, to select data and export in Excel (lots of clicking, not intuitive); thru 2017; also features ""Data Center"" from home page"
+Kansas,Kansas State Library ,y,y,y,y,xls rect,2017,1,https://kslib.info/1131/Statistical-Data-Reports,
+Kentucky,Kentucky Department for Libraries and Archives,y,y,y,n,pdf,2017,2,https://kdla.ky.gov/librarians/plssd/Pages/LibraryStatistics.aspx,
+Louisiana,State Library of Louisiana,y,y,y,y,xls multi,2016,2,http://www.state.lib.la.us/public-libraries/statistics,
+Maine,Maine State Library ,y,y,y,y,xls (but) ,2016,4,https://www.maine.gov/msl/libs/data/annualreportstats.shtml,"has same interface as one other library -- displays table, and has xls icon in left bottom corner"
+Maryland,Sailor: Maryland Public Information Network,y,y,y,n,pdf,2016,2,http://www.sailor.lib.md.us/links/Default.aspx?id=151,
+Massachusetts,Massachusetts Board of Library Commissioners,y,y,y,y,xls (but) ,2017,3,https://mblc.state.ma.us/programs-and-support/library-statistics/index.php,"has same interface as one other library -- displays table, and has xls icon in left bottom corner; has interactive filter on site"
+Michigan,Library of Michigan,y,y,y,y,xls multi,2017,3,"https://www.michigan.gov/libraryofmichigan/0,2351,7-160-18668_69405_61707---,00.html",reports 2014 and earlier are in PDF
 Minnesota,Minnesota State Government Libraries,y,y,y,n,,,,http://w20.education.state.mn.us/WebsiteContent/LibraryListing.jsp?SEARCH_VALUE=A,"couldn't find statistics thru menu/navigation, only searching for ""library statistics""(""statistics"" results were a mess); These reports are now on the MN Dept of Education site, only in PDF form, thru 2017 but no aggregate "
-Mississippi,,,,,,,,,,
+Mississippi,Mississippi Library Commission,y,y,y,y,xls multi,2016,1,http://mlc.lib.ms.us/ms-libraries/library-development/statistics/,
 Missouri,Missouri State Library,y,y,y,y,xls multi ,,,https://www.sos.mo.gov/library/development/statistics,"navigate from ""services for libraries"" (no home page menu item); thru 2018; nice landing page explanation of xls being easy to manipulate; but only some files available in xls -- the rest are PDF"
 Montana,Montana State Library,y,y,y,n,pdf,2016,2,http://libraries.msl.mt.gov/home/library_development/statistics.aspx,"2 clicks if you use the dropdown menu from Library Development (and know to follow that); reports provided in pdf, no obvious link to mach-readable datasets"
 Nebraska,Nebraska Library Commission,y,y,y,y,xls (but) ,2016,1,http://www.nlc.state.ne.us/stats/, appears to offer xls file so large my computer can't open it quickly (1999-2016); individual years available only in pdf; also offers some in-site GIS maps; navigation is one click IF you know to look for menu under Library Management
-Nevada,,,,,,,,,,
-New Hampshire,,,,,,,,,,
+Nevada,Nevada State Library and Archives,[can't find it],[can't find it],[can't find it],[can't find it],[can't find it],[can't find it],[can't find it],[can't find it],
+New Hampshire,New Hampshire State Library,y,y,y,y,xls multi,2016,1,https://www.nh.gov/nhsl/lds/public_library_stats.html,
 New Jersey,,,,,,,,,,
 New Mexico,,,,,,,,,,
 New York,New York State Library,y,y,n,n,NA,,,http://www.nysl.nysed.gov/libdev/libs/index.html,could only find stats up to 2014 
