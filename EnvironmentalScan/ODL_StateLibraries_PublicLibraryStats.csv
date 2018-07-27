@@ -29,20 +29,20 @@ Montana,Montana State Library,y,y,y,n,pdf,2016,2,http://libraries.msl.mt.gov/hom
 Nebraska,Nebraska Library Commission,y,y,y,y,xls (but) ,2016,1,http://www.nlc.state.ne.us/stats/, appears to offer xls file so large my computer can't open it quickly (1999-2016); individual years available only in pdf; also offers some in-site GIS maps; navigation is one click IF you know to look for menu under Library Management
 Nevada,Nevada State Library and Archives,[can't find it],[can't find it],[can't find it],[can't find it],[can't find it],[can't find it],[can't find it],[can't find it],
 New Hampshire,New Hampshire State Library,y,y,y,y,xls multi,2016,1,https://www.nh.gov/nhsl/lds/public_library_stats.html,
-New Jersey,,,,,,,,,,
-New Mexico,,,,,,,,,,
+New Jersey,New Jersey State Library,y,y,y,y,xls multi,2017,1,https://www.njstatelib.org/services_for_libraries/resources/statistics/,"a list of links -- no narrative at all' xls second sheet is for ""notes"""
+New Mexico,New Mexico State Library,y,y,y,y,xls,2017,1,http://www.nmstatelibrary.org/services-for-nm-libraries/public-library-statistics,file apparently so huge it takes minutes to download (like NE) 
 New York,New York State Library,y,y,n,n,NA,,,http://www.nysl.nysed.gov/libdev/libs/index.html,could only find stats up to 2014 
 North Carolina,StateLibrary of North Carolina,y,y,y,y,xls multi,,,https://statelibrary.ncdcr.gov/ld/about-libraries/data,"clean site; stats updated thru 2017; got to statistics from pages ""for libraries""; but xls spreadsheet not tidy"
 North Dakota,North Dakota State Library,y,y,n,n,,,,http://www.arcgis.com/apps/MapSeries/index.html?appid=6a955ca49e534a66bc914d96c613c3a2,"most current stats (2016) appear in a story map online, but I can't find the underlying dataset"
-Ohio,,,,,,,,,,
+Ohio,State Library of Ohio,y,y,y,y,xls rect,2016,2,https://library.ohio.gov/services-for-libraries/ohio-public-library-statistics/#StatisticalDataReports,
 Oklahoma,Oklahoma Dept of Libraries,y,y,y,y,xls multi,2015,2,https://libraries.ok.gov/librarians/library-development/library-reporting/,
 Oregon,State Library of Oregon,y,y,y,y,xls multi,,,https://www.oregon.gov/osl/LD/Pages/statsmain.aspx,"simple presentation, but plain language to ""work with it as you choose"" (https://www.oregon.gov/osl/LD/Pages/statsploregon.aspx)"
 Pennsylvania,State Library of Pennsylvania,y,y,y,y,xls ,,,https://www.statelibrary.pa.gov/Libraries/Statistics/Pages/default.aspx,"Pretty straightforward navigation from home page, as long as the user knows to click ""for Libraries""; thru 2015 in xls; one sheet but columns are a little strange, with the county names repeated at intervals"
 Rhode Island,Office of Library & Information Services,y,y,y,y,xls multi,,,http://www.olis.ri.gov/stats/pls/index.php,NOT easy to find at all; user needs to know to go to Office of Library & information Services and then look for public library survey 
-South Carolina,,,,,,,,,,
-South Dakota,,,,,,,,,,
-Tennessee,,,,,,,,,,
-Texas,,,,,,,,,,
+South Carolina,South Carolina State Library ,y,y,y,y,xls multi,2017,F minus,http://guides.statelibrary.sc.gov/c.php?g=11804&p=529530,"only way to find this is to search the site for ""statistics,"" which are inexplicably found under ""Subject Guides"" (?) under the ""For Libraries"" section of the ""Programs & Services"" page -- and even on the Subject Guides page I needed to search ""statistics"" because it was under ""South Carolina Public Library Statistics"" and I didn't catch the fifth word on a scan"
+South Dakota,South Dakota State Library ,y,y,y,n,pdf,2017,3 but,http://library.sd.gov/SDSL/publications/index.aspx#Reports,Navigation not obvious. Home/Publications/Reports …after clicking around on menus and not finding any other routes. This was a guess. 
+Tennessee,Tennessee State Library and Archives,y,y,y,y,xls Ready Reports,2017,3,https://tn.countingopinions.com/index.php?page_id=10,Reports available in segments; don't see an option for getting the full dataset; usual Ready Report issues
+Texas,Texas State Library and Archives Commission,y,y,y,y,xls multi,2016,3,https://www.tsl.texas.gov/ld/pubs/pls/index.html,
 Utah,,,,,,,,,,
 Vermont,,,,,,,,,,
 Virginia,,,,,,,,,,
