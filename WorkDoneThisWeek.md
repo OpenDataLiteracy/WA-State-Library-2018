@@ -1,28 +1,27 @@
 # Work Done This Week
-# 20 July 2018
-*updated 19 July 2018*
+# 27 July 2018
+*updated 27 July 2018*
 
 *This file reflects the most recent activity. You can see previous weeks' activities by reviewing this file's history (click on the History tab above) which shows previous versions of the file.*
 
 
-## Organizing Data Equity for Main Street (DEMS) repository
-- Met with Will S. to firm up platform, artifacts for repository 
-
 ## Environmental Scan
 ### Interviews 
+- Interviewed 3 Data Equity for Main Street libraries, 6 non-Data-Equity libraries
 - Reviewed recordings and updated notes from previous interviews
-- Updated Environmental Scan Themes document with material from recent interviews
-- Drafted interview protocol for non-DEMS library sample 
-- Interviewed one DEMS library and one non-DEMS library; discussed DEMS with another librarian over email
-- Scheduled interviews with four more WA libraries (3 DEMS and one non-DEMS)
-- Followed up on earlier emails to non-DEMS libraries I haven't heard from 
+- Sent questions by email to 1 non-Data-Equity library
+- Followed up on earlier emails to 4 non-DEMS libraries I haven't connected with
 
 ### Research
-- Continued populating spreadsheet on open data portals by locality in WA
-- Continued populating spreadsheet on open-data publishing by state libraries
+- Finished populating spreadsheet on open data portals by locality in WA
+- Finished populating spreadsheet on open-data publishing by state libraries (by Saturday)
 
 ## Administrative/Documentation
-- Continued evaluating IRB options for any future publication
-- Checked in with Nic W. on repository issues, state of research
-- Set early-August meeting with Cindy Aden to discuss findings 
+- Attend mandatory UW sexual harrassment prevention training
 - Updated Work Done This Week
+
+## Next week
+- Will spend Monday and Tuesday reviewing findings and preparing memo on findings for ODL faculty, Evelyn L. @ state library; this will also address possible next steps and collaboration between ODL & State LIbrary
+- As I prepare findings memo, will start to clean spreadsheets of city/county open data & state library public library statistics publishing 
+- Meeting Aug. 1 with Cindy Aden to discuss findings & recommendations, seek input about any small holes to fill for final report & presentation
+- Spending Thursday & Friday assembling Data Equity curriculum repository
