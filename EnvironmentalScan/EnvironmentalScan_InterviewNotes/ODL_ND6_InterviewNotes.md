@@ -1,8 +1,8 @@
 #  ODL: ND6 Interview Notes
 
-*ND6 is the director of a small (serving <5K people) rural library system spread out over a large area and several branches. Local government agencies do not currently publish open data.
+*ND6 is the director of a small (serving <5K people) rural library system spread out over a large area and several branches. Local government agencies do not currently publish open data.*
 
-## What population does the libary serve?
+## What population does the library serve?
 - The library's population comprises mainly young families and retirees, with very few middle-aged adults. The population is largely Caucasian, native English speakers. The area also has many low-income residents. 
 
 ## What does the library's event programming look like? 

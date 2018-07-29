@@ -1,6 +1,6 @@
 #  ODL Environmental Scan: DEMS5a&b Interview Notes
 
-*DEMS5a & DEMS5b are innovations director and web librarian for a California municipal public library serving about 1 million people. The city and surrounding county both have open data portals. The area has many tech employers and a Code for America chapter.*
+*DEMS5a & DEMS5b are innovations director and web librarian for a California municipal public library serving about 1 million people. The city and surrounding county both have open data portals. The area has many colleges and universities, tech employers and a Code for America chapter.*
 
 ## Has the library worked with the city on its open data portal?
 - The library has expressed interest in such a partnership, to improve the city's open data once, as well as offer continued training and support. 
@@ -20,7 +20,7 @@
 ## What went well with Data Equity activities? What could have gone better?
 - The library has good instruction facilities (computer lab, open conference space) and equipment, including a laptop cart.
 - Public classes had about eight attendees consistently, although not always the same eight. The attendees had a variety of reasons for attending, some with specific goals in mind, a few staff interested in improving customer service, as well as beginners. The classes were held on four Saturdays in a row. 
-- Based on DEMS5 library's own experience and perusing comments from Beta testing libraries, DEMS5b said marekting/promotion is very important, and is being prepared and and connecting the content to community. DEMS5b, for example, brought in community open data partners as guests for the last class. 
+- Based on DEMS5 library's own experience and perusing comments from Beta testing libraries, DEMS5b said marketing/promotion is very important, and is being prepared and and connecting the content to community. DEMS5b, for example, brought in community open data partners as guests for the last class. 
 - The library also hosted classes in May 2018 for staff, over two days. These were very well attended, with at least 30 people showing up. Attendees were very engaged, used visualization after the classes, and asked if the library would be offering instruction again. They may offer another round of classes for staff and other city departments this fall. 
 - The staff training was also important for helping staff to understand how their daily routine might be affected by the library's publishing more open data, and how they might use open data internally to direct services and demonstrate value (e.g., gather information for a neighborhood assessment). "This is planting a seed to get them thinking, Oh, I could be one of the data champions," DEMS5b said.
 
@@ -34,7 +34,11 @@
 - Offer training, especially leadership and advocacy training.
 - Small stipends for doing this work would be helpful. 
 - Give libraries tools and tips about how to start a conversation with their local governments on open data publishing (not overwhelm agencies that aren't anywhere near ready for open data, or whose constituencies aren't demanding it).
-- Reassure libraries that these are long-term strategies that will take years to take hold, DEMS5a&b now. It's important to start early and demonstrate that the library is a valuable institution that is critical to the function of the community. s
+- Reassure libraries that these are long-term strategies that will take years to take hold, DEMS5a&b now. It's important to start early and demonstrate that the library is a valuable institution that is critical to the function of the community. 
+
+
+
+
 
 
 

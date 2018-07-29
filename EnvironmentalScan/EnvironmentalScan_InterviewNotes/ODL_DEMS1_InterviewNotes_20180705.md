@@ -2,6 +2,9 @@
 #  5 July 2018
 *Updated 12 July 2018, listening to recording.*
 
+*DEMS1 is the director of a Washington state municipal library....*
+
+
 ## How the Library learned about Data Equity for Main Street
 - DEMS1 heard about Data Equity at a state library association meeting, where Data Equity leaders presented the project.
 

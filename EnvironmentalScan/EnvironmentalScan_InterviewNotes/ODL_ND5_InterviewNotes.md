@@ -1,6 +1,6 @@
 #  ODL: ND5 Interview notes
 
-ND5 is a data analyst and instructor for a large (> 250K patrons) municipal library. The municipality has many residents who work for technology companies and a Code for America chapter.
+*ND5 is a data analyst and instructor for a large (> 250K patrons) municipal library. Both the city and the surrounding county publish open data. The city and surrounding area have many residents who work for technology companies. The area also includes many colleges and universities, and a Code for America chapter.* 
 
 ## Does the library publish data about itself?
 - Yes. As a municipal agency, the library is subject to a mayoral executive order from several years ago, calling for all city data to be made as accessible as possible (while protecting privacy, security and quality).

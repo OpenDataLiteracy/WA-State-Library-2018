@@ -21,7 +21,7 @@
 - The Data Equity curriculum committee debated whether to have students all work on the same project, or pursue their own special projects. Based on the class experience, DEMS4 said it was better to have everyone working on the same project, with vetted open data sources. An alternative approach would be to give students an optional 20 minutes at the end to work on their own projects, with instructional support.
 
 ## What is the library's role in the local open data portal?
-- The library is a participant and contributes datasets, like other city agencies do. 
+- The library is a participant and contributes datasets, like other city agencies do. The library does not currently have an advisory role with local government about open data publishing. 
 
 ## How much do open data services (publishing, instruction, advising) fit the library's mission?
 - DEMS4 said open data fits well with the library's literacy mission, and is also an important critical-thinking tool during a time when "we're dealing with an all-out assault on facts."

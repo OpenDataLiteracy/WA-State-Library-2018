@@ -1,7 +1,7 @@
 #  ODL Environmental Scan: DEMS6 Interview Notes
 *Interview conducted via Zoom on 2018-07-19*
 
-*DEMS6 is the director a municipal library in Washington State serving 25K-100K people. The library's city doesn't publish open data; the county and its largest city publish limited open data (GIS). A university-community partnership has produced an extensive data portal for the county, using various public datasets.
+*DEMS6 is the director a Washington State municipal library serving 25K-100K people. The library's city doesn't publish open data; the county and its largest city publish limited open data (GIS). A university-community partnership has produced an extensive data portal for the county, using various public datasets.*
 
 ## What is the library's service population like?
 - The city and surrounding area has historical connection to scientific military projects, and much of the population has at least a bachelor's degree. The library prioritizes STEAM (science, technology, engineering, art and math) curriculum, in staffing (STEAM coordinator), facilities (STEAM space) and equipment (virtual reality goggles, three 3D printers). The emphasis with these programs is education (understanding anatomy), not only entertainment.
