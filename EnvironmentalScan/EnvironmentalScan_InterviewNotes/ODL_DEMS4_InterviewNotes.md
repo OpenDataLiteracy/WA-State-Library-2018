@@ -15,6 +15,7 @@
 
 ## What went well with the classes? What could have gone better?
 - The classes were attended by about 16 people, at the start. 
+- The library has good facilities and equipment for teaching the curriculum. 
 - The library probably should have been clearer that the curriculum was aimed at beginners. Class participants with more background in coding dropped out, but about eight participants continued for all four classes.
 - The remaining participants were very engaged. Treasure hunts and critical thinking about visualizations were especially popular parts of the curriculum.
 - The Data Equity curriculum committee debated whether to have students all work on the same project, or pursue their own special projects. Based on the class experience, DEMS4 said it was better to have everyone working on the same project, with vetted open data sources. An alternative approach would be to give students an optional 20 minutes at the end to work on their own projects, with instructional support.
