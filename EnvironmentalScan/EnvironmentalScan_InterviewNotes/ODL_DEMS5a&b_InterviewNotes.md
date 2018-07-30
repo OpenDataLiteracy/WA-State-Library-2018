@@ -8,6 +8,9 @@
 - The city's open data platform is now in the process of being replaced, DEMS5a said.
 - The city also needs data management policies that allow departments to share data with each other, for their own benefit. For example, during recent flooding, different city departments couldn't adequately share data to coordinate relief efforts.
 
+## Does the library currently publish open data?
+- [Library's local archive  appears to be publishing some map data]
+
 ## What is the library's relationship with the city and other local agencies?
 - The library's director has a good relationship with the city's information officer and other city leaders. The director makes sure other leaders know about library expertise and value for potential collaboration. (DEMS5a says it's the library's "responsibility to make their city officials see that value. ...They're not going to come to you, usually. You've got to be your advocate. That's the thing I think I see missing sometimes from libraries. You have to go out there and tell them, and show them.") The mayor also seems to recognize the library's value and holds it up as an example to other city departments, DEMS5a said.
 - The library has long experience with using data to improve operations and demonstrate value ("That's how you keep your doors open," DEMS5b said), and everyday experience with users, DEMS5a&b said. Outcomes-based assessment is a hot topic in libraries, DEMS5b said, and libraries are in a good position to train others to carry out this assessment effectively. 
