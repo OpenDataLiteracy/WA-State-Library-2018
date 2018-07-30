@@ -14,7 +14,7 @@
 
 ## What is the library's relationship with local government and other community groups?
 - The library is a "trust fund" of the city, meaning once money is allocated, it can't be taken away without an extraordinary step.  
-- ND4 said the library has been isolated from other government functions for many years. ND4 is working to rebuild these relationships by meeting weekly with the city manager, for example, and reaching out to educational institutions/organizations (incl. public schools and local colleges) as well as social services and community groups (e.g., parks, housing authority, local faith-based organizations, historical societies etc.). 
+- ND4 said the library has been isolated from other government functions for many years. ND4 is working to rebuild these relationships by attending weekly meetings with the city manager and other city department heads, for example, and reaching out to educational institutions/organizations (incl. public schools and local colleges) as well as social services and community groups (e.g., parks, housing authority, local faith-based organizations, historical societies etc.). 
 - The neighborhood conversations generate data that the library can use when presenting to city officials. The city is starting to hear some positive feedback about the conversations and the library. 
 - ND4 will reach out more to business leaders when the library's strategic direction has begun to take shape and the library can offer more services to this segment of the community. 
 
