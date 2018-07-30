@@ -1,6 +1,6 @@
 # ODL Interview Notes with ND4
 
-*ND4 is the director of a large municipal library (serving 100K-250K people), with between 6 and 10 locations. ND4 took over the library directorship in the past year. 
+*ND4 is the director of a large municipal library (serving 100K-250K people), with between 6 and 10 locations. ND4 took over the library directorship in the past year. The city has an open data portal, and the surrounding county publishes a lot of GIS open data.*
 
 ## What population does the library serve?
 - The library serves an economically and racially/ethnically diverse area, but could be serving more of that population that its current services and events reflect, ND4 said. The library has not adequately talked to its public for many years, ND4 said. 

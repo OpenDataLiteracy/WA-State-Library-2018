@@ -1,6 +1,6 @@
 #  ODL DEMS8 Interview Notes
 
-*DEMS8 is the director of a smaller county library (serving >5K <25K people). The local governments don't publish any open data. 
+*DEMS8 is the director of a smaller county library (serving >5K <25K people). The local governments don't publish any open data.*
 
 ## How did the library become involved in Data Equity for Main Street?
 - Elizabeth Iaukea in the State Library told the library about it. The library participates in technology/job training programs overseen by the State Library. 

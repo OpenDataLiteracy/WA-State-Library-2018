@@ -3,7 +3,8 @@
 
 ##  Signs of readiness
 ### Open-data-friendly institutions do strategic planning. Plans specifically address open data or emphasize goals consistent with open data (e.g., transparency, innovation).
--DEMS1
+- Looking to be involved in research. DEMS1
+- Looking for opportunities to explore data, early, to see how it fits in library mission. DEMS1, DEMS5
 -DEMS2
 
 ### Institutions need to be big enough to have capacity for open data programming, but not so big that they can't act quickly. 
@@ -14,6 +15,8 @@
 
 ### Open data is often competing with other big projects or staff changes at libraries or publishing agencies.
 - DEMS9 says staff changes at agencies account in part for slowing progress on open data.
+- DEMS10 is bringing a new automation system on line.
+- DEMS7 has been involved in a building project.
 
 ### Open data efforts prompt institutions to think about users and their concerns.
 - DEMS1 noted difficulty in identifying target users outside of the general public. 
@@ -24,10 +27,14 @@
 - DEMS1  
 - DEMS5 
 
+### Open data appeals to libraries for internal use and professional development.
+- Can help the library better leverage data to demonstrate value. DEMS6
+
 ### Open-data-friendly institutions have staff that are enthusiastic about technology (or at least aren't afraid of it).
 - DEMS1 has strong background in data use.
 - DEMS2a is an enthusiast, and DEMS2 library system has multiple staff members involved in data and digitization.
 - DEMS5
+- But DEMS10 has staff that aren't necessarily computer-savvy and needed a foundation in online searching and Boolean operators before diving into open data content.
 
 ### Open-data-friendly institutions have at least adequate facilities for programs and services.
 - DEMS1 
@@ -77,13 +84,24 @@
 
 ### What's gone well/what's enticing about offering open data curriculum 
 - Collaboration among libraries. DEMS2, DEMS9.
+- Participating helps libraries clarify the role of open data in future work. DEMS1
+- Open data basics was an especially successful class. DEMS1
 - Curriculum is solid and can be tailored to audience. DEMS9.
 - Staff are extremely enthusiastic and positive when they attend training, and staff attend in large numbers. DEMS5.
 
 ### Challenges in hosting open-data classes/concerns about investing in open data curriculum
 - Outreach/marketing is critical, but time-consuming and difficult to do effectively. DEMS5
-- Low attendance at classes for the public, especially relative to marketing effort. DEMS9, ND5.
+- Difficult to think of target user groups in the library's area -- lack of academic institutions, businesses or other user groups that might want to use primary sources to answer research questions. DEMS1
+- Low attendance at classes for the public, especially relative to marketing effort. DEMS9, ND5, DEMS1.
+- Attendees had very specific issues to pursue, vs. general interest. DEMS1
+- Open data isn't always easy to distinguish from other reference sources, some of which provide more context and (helpful, high-quality) interpretation. DEMS1
 - Classes lay the foundation for future questions, which may take a while to evolve, but access is the first step toward literacy. (People need some education -- a "little hook" -- as a foundation for having further questions, DEMS9 said. As open data publishing evolves and provides more context and narrative (e.g., publishing an article about the hot public topic of potholes, then providing user-friendly links to data on the righthand side), more people will be interested in open data, DEMS9 said.) DEMS9, DEMS5.
+
+### Open data's unique strengths as a resource.
+- Source when no other source has built the answer already. DEMS1
+- Open to interpretation, queries and visualization. DEMS8
+- A tool for fostering critical thinking. DEMS1, DEMS2.
+- A means of vetting or inspecting others' conclusions and interpretations. DEMS1
 
 ### Users are interested in data to solve problems, but they also want to have fun or be amazed by something cool.
 - The historic trees dataset. DEMS2a/Will S.
@@ -91,24 +109,30 @@
 
 ### Possible next steps
 - Perhaps another round of classes, but to targeted users: DEMS9
-- Offer future instruction to staff, DEMS5. 
+- Offer future instruction to staff, DEMS5, DEMS10 
 - Develop measures for the impact of open data education, DEMS5.
 - Develop e-curriculum that can be embedded in a library site or an open data portal, DEMS5.
 - A new staff member may help advance open data efforts. DEMS3, DEMS5, DEMS9.
+- Fold open data into other existing programs and curriculum, such as health literacy, DEMS6
+- One-shot classes, focused on a particular subject such as property or crime, although the instructor can use practical issues to pique attendees imagination and curiosity. DEMS1
+
 
 ## Libraries' future with open data
 ### Open data connects to many core traditional library functions.
 - Open data is part of reference librarianship, intellectual freedom, education/empowerment, critical thinking DEMS1, DEMS2
+- Libraries are about information. DEMS2, DEMS6, DEMS5, DEMS9
 - Libraries are the original open source people. Open data is the library's future. DEMS9, DEMS5.
-- Open data is a new literacy, and libraries need to be on top of it. DEMS9, DEMS5. 
+- Open data is a new literacy, and libraries need to be on top of it. DEMS9, DEMS5. "We're giving people what they want if they knew about it," DEMS6.
 - Reference librarians and other key staff should absolutely be trained on open data. DEMS1, DEMS9.
+- Open data advances a better publishing ecosystem, one that doesn't hide information behind proprietary walls. DEMS1
 
 ## Suggestions about how to support open data efforts at public libraries 
-- State-supported data repository, which would standardize format and address long-term management. DEMS1
-- Virtually any capacity support -- toolkits, professional development, tips. DEMS2, DEMS9
+- State-supported data repository, which would standardize format and provide long-term management. DEMS1
+- Virtually any capacity support -- toolkits, professional development, tips. DEMS2, DEMS9. DEMS was perfect for DEMS6, for example, because it was "just what was needed, when it was needed."
 - Ready-to-use marketing materials, such as flyers. DEMS2, DEMS5
 - Leadership/advocacy training and tips, DEMS5.
-- Reassure libraries that these are long-term efforts, DEMS5.s
+- Reassure libraries that these are long-term efforts, DEMS5
+
 
 # Rundown
 ## Libraries that have taught/presented open data 
@@ -120,8 +144,12 @@
 ### to library staff 
 - ND5 (extremely well attended)
 - DEMS5 (extremely well attended)
+- DEMS10 (successful but abbreviated)
+- DEMS6 (starting in July)
 ### to publishing agencies
 - DEMS2 
+### plans to conduct classes by December 2018
+- Fall 2018? DEMS6
 
 ## Libraries publishing open data
 - ND5
@@ -132,8 +160,10 @@
 - DEMS2
 - DEMS5 is interested in such a partnership and already works with local government on other projects
 - DEMS9. The government and the library are also talking about sharing a data-related position.
+### Libraries that have informally talked to local officials about open data publishing, and would be open to advocating for open data/better data with government. 
+- Many localities will only undertake open data to avoid the pain of dealing with public records requests, DEMS1 said. When data is available by default through open data, "Instead of pulling a thousand records over the course of two years for a person, they could just write a letter back and say, 'It is available to you right here. Does that meet your information request?' Check! Done! ...That's the value case. ...[Librarians] can be advocates for that, for sure.'' DEMS1
 ### Libraries with good working relationships with other agencies, interested in helping them publish open data (VISIT THESE)
-- DEMS7
+- DEMS8
 - ND6
 
 ## Libraries interested in hosting open data portals (for library and other data)
@@ -143,14 +173,16 @@
 
 # Future research & ODL/WSL collaboration opportunities
 - Look for signs of readiness in local government to move toward more or better open data, such as open-government documentation on the website. Are there other probably target user groups for open data in the area? For example, academic institutions, tech-driven industry, journalists, schools, activists or others who use  research questions and would be interested in open data?
-- Talk to city and community leaders in DEMS2 and DEMS9 areas, to learn more about why partnerships with the library are working. Visit sites where the library leadership already has a close relationship with local government. 
+- Talk to city and community leaders in DEMS2 and DEMS9 areas, to learn more about why partnerships with the library are working. Visit sites where the library leadership already has a close relationship with local government, ND6 & DEMS8. 
 - Continue talking to public library systems in the state, and survey more county libraries. (Most in the sample ended up being municipal libraries -- are most library systems in this category, or are most in this category at a certain population size?) Use surveys when they make sense, but recognize that one may benefit most from rich, qualitative methods when trying to understand readiness.
 - Go to the next level on the WA counties/cities spreadsheet -- taking a closer look at the quality of publishing, getting more precise information about the categories and volume of data published, filling in more localities, surveying at least health departments.
-- Help the state library gain a few Tim Berners-Lee stars in its own publishing -- one big rectangle, a little friendly invitation text on the page, DOI and links.
-- Pull together a Research Guide page for public libraries, providing toolkits, starting points for publishing open data, working with local government and connecting patrons to open data (through one-on-one, instruction, e-curriculum, collections/lib guides)
+- Help the state library gain a few Tim Berners-Lee stars in its own publishing -- one big rectangle, a little friendly invitation text on the page, DOI and links to other data.
+- Pull together a Research Guide page for public libraries, providing toolkits, starting points for publishing open data, working with local government and connecting patrons to open data (through one-on-one, instruction, e-curriculum, collections/lib guides). Connect libraries to available training through the State Library (Tami).
 - Encourage libraries to create collections/guides to local open data (me) 
-- Work with Elizabeth I. on embedded e-curriculum
-- Connect open data to State Library services, such as youth services, tribal libraries, Worksource. 
+- Work with Elizabeth I. on embedded e-curriculum.
+- Connect open data to State Library services, such as youth services, tribal libraries, Worksource. Nono has expertise in ArcGIS Storymaps.
+- Help develop e-curriculum on open data.
+- 
 
 
 

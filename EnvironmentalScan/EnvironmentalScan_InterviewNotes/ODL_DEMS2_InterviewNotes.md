@@ -1,8 +1,6 @@
 #  Interview Notes: DEMS2, director and DEMS librarian for city library in Washington 
 
-## Background
-
-*DEMS2a is a manager librarian and DEMS lead for a Washington State municipal library serving between 100,000 and 250,000 people. DEMS2b is the library director, who took over in the past year. The library has recently become involved in the city's efforts to launch an open data portal.*
+*DEMS2a is a manager librarian and DEMS lead for a Washington State municipal library serving between 100,000 and 250,000 people. DEMS2b is the library director, who took over in the past year. The surrounding county provides a limited selection of GIS open data. The library has recently become involved in the city's efforts to launch an open data portal.*
 
 ## How did the library become involved in the city's open data efforts?
 - A new mayor took office at the beginning of 2018, taking over from a predecessor who had been in office for more than 10 years. The new mayor began issuing directives/identifying priorities shortly after taking office in January. One directive emphasized community engagement, diversity and inclusion, and included a provision for a potential open data platform. This likely was tied to an earlier long-term planning report published in 2017, *Envision Everett 2037,* which emphasized greater public participation and government transparency, and suggested open data as a way to advance both priorities.
