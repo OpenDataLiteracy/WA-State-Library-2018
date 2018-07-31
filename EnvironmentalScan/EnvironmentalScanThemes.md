@@ -44,7 +44,7 @@
 - DEMS2a is an enthusiast, and DEMS2 library system has multiple staff members involved in data and digitization.
 - DEMS5
 - DEMS8 already participates in digital literacy training thru State Library 
-- Technology-specific staff : ND1 (technology manager), ND3 (part-time associate for tech instruction), ND5 is a data analyst.
+- Technology-specific staff : ND1 (technology manager), ND3 (part-time associate for tech instruction), ND5 is a data analyst, ND6 has TechTues drop-in events. ND9 has data-friendly events (often focused on environmentalism) and puts statistics on its website.
 #### ...Or the library doesn't have strong data staffing or capacity, and this is a challenge for open-data efforts.
 - But DEMS10 has staff that aren't necessarily computer-savvy and needed a foundation in online searching and Boolean operators before diving into open data content.
 - ND4 has no data wrangler on staff (or marketing person; staff is generally lean).
@@ -86,7 +86,7 @@
 - DEMS2 was cheered that city IT identified the library as a valuable expert on user experience. DEMS2a noted that libraries are experienced in using data to demonstrate value. DEMS2b commented on how libraries can help other agencies appreciate the benefits of working openly and being open about information (instead of trying to hide potential problems).
 - DEMS5 affirmed all of these factors behind library expertise. 
 - DEMS9: The library is a "friendlier" adviser than someone from the city's IT department, DEMS9 said. The library is all about information, and doesn't have an ulterior motive in advising people about the best information practices, DEMS9 said. 
--  Can see an advisory role for the library eventually, because of these areas of expertise, ND1, ND2, ND5 (although no such partnership now)
+-  Can see an advisory role for the library eventually, because of these areas of expertise, ND1, ND2, ND5 (although no such partnership now), ND6.
 #### ...Or, the library is challenged by relationships with government/community leaders.
 - The library has "an uphill battle" being valued by other city leaders, DEMS#3. Many city residents are relatively affluent but the local government isn't well funded. The library staff and budget is unlikely to grow in the next five year.
 - The library needs to rebuild relationships with government and community leadership, ND4. Data actually helps with this effort, since it allows the library to better demonstrate its value (ND4).
@@ -126,7 +126,7 @@
 -  Constituencies without obvious research-driven user groups, e.g., academic institutions, businesses or other user groups that might want to use primary sources to answer research questions. DEMS1. ND2 believes a niche crowd would be interested, e.g., those who make public records requests now. ND3 not sure the service population would be research-driven to use open data.
 - Political cultural that doesn't fund or value any public institutions, DEMS3.
 - Library has fundamental strategic issues to address, such as talking to its public and government/community leaders, ND4.
-- Low attendance at classes for the public, especially relative to marketing effort. DEMS9, ND5 (even after extraordinary outreach), DEMS1, DEMS7, DEMS8 (general public classes)
+- Low attendance at classes for the public, especially relative to marketing effort. DEMS9, ND5 (even after extraordinary outreach), DEMS1, DEMS7, DEMS8 (general public classes), ND6 (patrons ask for computer classes and then don't come to them)
 - Attendees had very specific issues to pursue, vs. general interest. DEMS1
 - Technical difficulties (wifi capacity, DEMS3), participants didn't have their own laptops (DEMS7, biz classes)
 - Open data isn't always easy to distinguish from other reference sources, some of which provide more context and (helpful, high-quality) interpretation. DEMS1
@@ -146,7 +146,7 @@
 ### Possible next steps
 - Classes for the general public, possibly around the fall election, perhaps to targeted users such as environmentalists. DEMS3
 - Perhaps another round of classes, but to targeted users: DEMS9
-- Offer future instruction to staff, DEMS5, DEMS10, ND5 (a possibility)
+- Offer future instruction to staff, DEMS5, DEMS10, ND5 (a possibility), ND6 (i.e, use training to be ready for drop-in questions)
 - Develop measures for the impact of open data education, DEMS5.
 - Develop e-curriculum that can be embedded in a library site or an open data portal, DEMS5.
 - A new staff member may help advance open data efforts. DEMS3, DEMS5, DEMS9
@@ -154,7 +154,7 @@
 - Fold open data into other existing programs and curriculum, such as health literacy, DEMS6
 - One-shot classes, focused on a particular subject such as property or crime, although the instructor can use practical issues to pique attendees imagination and curiosity. DEMS1
 - Using curriculum to teach other city departments first, ahead of city's open data portal launch. Possibly timing classes for the public closer to the city's portal launch. DEMS2
-- Encourage more local agencies to publish open data. DEMS8
+- Encourage more local agencies to publish open data. DEMS8, ND6 (maybe)
 - Teaching open data curriculum, or taking a bigger role in the local town's open data efforts, ND1.
 
 ## Libraries' future with open data
@@ -170,8 +170,8 @@
 ## Suggestions about how to support open data efforts at public libraries 
 - State-supported data repository, which would standardize format and provide long-term management. DEMS1
 - Infrastructure, such as a platform that supports an open data portal, ND8.
-- Virtually any capacity support -- toolkits, professional development, tips. DEMS2, DEMS9, DEMS8, ND1. DEMS was perfect for DEMS6, for example, because it was "just what was needed, when it was needed."
-- Ready-to-use curriculum (asked for), ND1. 
+- Virtually any capacity support -- toolkits, professional development, tips. DEMS2, DEMS9, DEMS8, ND1. DEMS was perfect for DEMS6, for example, because it was "just what was needed, when it was needed." ND6
+- Ready-to-use curriculum (asked for), ND1.ND6 
 - Ready-to-use marketing materials, such as flyers. DEMS2, DEMS5, DEMS3
 - Leadership/advocacy training and tips about starting points with government, DEMS5. (DEMS3 maybe)
 - Reassure libraries that these are long-term efforts, DEMS5.
@@ -207,6 +207,7 @@
 ### interest in open-data curriculum
 - ND1
 - ND2 especially if local government launches open data 
+- ND6 (for staff training)
 ### no firm plans for future public classes
 - DEMS7, DEMS4, ND5
 
@@ -217,7 +218,7 @@
 - DEMS9 
 - DEMS4
 ### Libraries open to the idea, trying to share information with the public
-- ND4, ND1, ND2 (has published statistics as PDFs)
+- ND4, ND1, ND2 (has published statistics as PDFs), ND6 (open if given support)
 ### Not publishing now
 DEMS1, DEMS2, DEMS3, DEMS6, DEMS7, DEMS8, ND3 
 
@@ -230,7 +231,7 @@ DEMS1, DEMS2, DEMS3, DEMS6, DEMS7, DEMS8, ND3
 - ND5
 ### Libraries with good working relationships with other agencies, interested in helping them publish open data (VISIT THESE)
 - DEMS8
-- ND6
+- ND6 
 ### Libraries interested in being at the table for local government open-data efforts
 - ND4, ND1 (can see an advocacy/advising role in the future), ND2
 
@@ -240,8 +241,8 @@ DEMS1, DEMS2, DEMS3, DEMS6, DEMS7, DEMS8, ND3
 
 # Future research & ODL/WSL collaboration opportunities
 - Look for signs of readiness in local government to move toward more or better open data, such as open-government documentation on the website. Are there other probably target user groups for open data in the area? For example, academic institutions, tech-driven industry, journalists, schools, activists or others who use  research questions and would be interested in open data?
-- Talk to city and community leaders in DEMS2 and DEMS9 areas, to learn more about why partnerships with the library are working. Visit sites where the library leadership already has a close relationship with local government, (ND6 & DEMS8), or is reaching out to public and government (ND4), or has an interest (ND1).  
-- Help ND4 publish open data about its conversation project.
+- Talk to city and community leaders in DEMS2 and DEMS9 areas, to learn more about why partnerships with the library are working. Visit sites where the library leadership already has a close relationship with local government, (ND6 & DEMS8), or is reaching out to public and government (ND4), or has an interest (ND1). ND9's website indicates a friendliness to data, too. 
+- Help ND4 publish opsen data about its conversation project.
 - Continue talking to public library systems in the state, and survey more county libraries. (Most in the sample ended up being municipal libraries -- are most library systems in this category, or are most in this category at a certain population size?) Use surveys when they make sense, but recognize that one may benefit most from rich, qualitative methods when trying to understand readiness.
 - Go to the next level on the WA counties/cities spreadsheet -- taking a closer look at the quality of publishing, getting more precise information about the categories and volume of data published, filling in more localities, surveying at least health departments.
     - Learn more about Clark County's Premium GIS arrangement. Is that unusual? 

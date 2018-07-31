@@ -6,10 +6,10 @@
 - The library's population comprises mainly young families and retirees, with very few middle-aged adults. The population is largely Caucasian, native English speakers. The area also has many low-income residents. 
 
 ## What does the library's event programming look like? 
-- Since young families make up a lot of the library's service population, events target school-age children (with such programming on heavy rotation during summer months). However, the library also has active older patrons who participate in book clubs and food events. 
+- Since young families make up a lot of the library's service population, events target school-age children (with such programming on heavy rotation during summer months). However, the library also has active older patrons who participate in book clubs and food events. The library also has Tech Tuesday drop-in events.
 
 ## How does the library interact with other public agencies?
-- ND6 has a hand in most local governing bodies, and members of local agencies [*health department? review recording*] sit on the library's board. The library works closely with schools, and ND6 sits on the local museum board. ND6 attends school board, city countcil and chamber of commerce meetings. 
+- ND6 has a hand in most local governing bodies, and members of local agencies (health department) sit on the library's board. The library works closely with schools, and ND6 sits on the local museum board. ND6 attends school board, city countcil and chamber of commerce meetings. 
 
 ## Does the library publish any data about itself?
 - No.
