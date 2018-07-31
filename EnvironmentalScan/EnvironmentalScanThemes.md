@@ -6,7 +6,8 @@
 - Looking to be involved in research. DEMS1
 - Looking for opportunities to explore data, early, to see how it fits in library mission. DEMS1, DEMS5
 - Library's city had published an strategic plan that mentioned citizen participation, govt transparency and open data. DEMS2
--- ND1's town has launched an open-govt initiative and published open data as part of this.
+- ND1's town has launched an open-govt initiative and published open data as part of this.
+- ND5's mayor directed all city departments to make data as accessible as possible.
 
 ### Data-Equity and other open-data-services-participating libraries tend to be mid- and large-sized libraries.
 - 250k and more: DEMS4, DEMS5, DEMS9, ND5 [but two more WA library systems may join DEMS]
@@ -36,13 +37,14 @@
 
 ### Open data appeals to libraries for internal use and professional development.
 - Can help the library better leverage data to demonstrate value. DEMS6, DEMS3
+- ND5 wonders if this is actually one of the best focuses for data management.
 
 ### Open-data-friendly institutions have staff that are enthusiastic about technology (or at least aren't afraid of it).
 - DEMS1 has strong background in data use.
 - DEMS2a is an enthusiast, and DEMS2 library system has multiple staff members involved in data and digitization.
 - DEMS5
 - DEMS8 already participates in digital literacy training thru State Library 
-- Technology-specific staff : ND1 (technology manager), ND3 (part-time associate for tech instruction). 
+- Technology-specific staff : ND1 (technology manager), ND3 (part-time associate for tech instruction), ND5 is a data analyst.
 #### ...Or the library doesn't have strong data staffing or capacity, and this is a challenge for open-data efforts.
 - But DEMS10 has staff that aren't necessarily computer-savvy and needed a foundation in online searching and Boolean operators before diving into open data content.
 - ND4 has no data wrangler on staff (or marketing person; staff is generally lean).
@@ -78,12 +80,13 @@
 - DEMS9 says the local government is in a holding pattern on open data, because departments need to catch up and understand why they're publishing, as well as how to publicize their open data. (Libraries are particularly helpful in educating agencies about the importance and benefits of working openly, DEMS9 said.) The area could benefit from community conversations that identify the most meaningful data to the public, DEMS9 said. 
 - The EWU Community Indicators project chooses data based on focus groups with community leaders, and is a must-study case for data publishing.
 - If locals see open data that's meaningful to them, this will boost enthusiasm for using and learning more about open data, DEMS8 said. 
+- Library staff spent a while thinking about what data would be useful and interesting to the public, ND5 said.
 
 ### The library as trusted adviser to government open-data publishers recognizes the library's unique expertise in technology, user experience, using data to demonstrate value. 
 - DEMS2 was cheered that city IT identified the library as a valuable expert on user experience. DEMS2a noted that libraries are experienced in using data to demonstrate value. DEMS2b commented on how libraries can help other agencies appreciate the benefits of working openly and being open about information (instead of trying to hide potential problems).
 - DEMS5 affirmed all of these factors behind library expertise. 
 - DEMS9: The library is a "friendlier" adviser than someone from the city's IT department, DEMS9 said. The library is all about information, and doesn't have an ulterior motive in advising people about the best information practices, DEMS9 said. 
--  Can see an advisory role for the library eventually, because of these areas of expertise, ND1, ND2.
+-  Can see an advisory role for the library eventually, because of these areas of expertise, ND1, ND2, ND5 (although no such partnership now)
 #### ...Or, the library is challenged by relationships with government/community leaders.
 - The library has "an uphill battle" being valued by other city leaders, DEMS#3. Many city residents are relatively affluent but the local government isn't well funded. The library staff and budget is unlikely to grow in the next five year.
 - The library needs to rebuild relationships with government and community leadership, ND4. Data actually helps with this effort, since it allows the library to better demonstrate its value (ND4).
@@ -93,14 +96,15 @@
 - One of the benefits of focusing on internal use of data is that agencies see the whole lifecycle, and the benefits of using data. ND5, DEMS5
 
 ### Open data publishers benefit from better internal management and use of data.
-- City departments in DEMS5's area can't share data adequately, which hobbles collaborative efforts.
-- Libraries can use data even more effectively to demonstrate value, DEMS5.
+- City departments in DEMS5's area can't share data adequately, which hobbles collaborative efforts. ND5 said this as well. 
+- Libraries can use data even more effectively to demonstrate value, DEMS5. And see if internal efforts are resulting in the hoped-for outcomes, ND5. 
 
 ### Excellent data management also benefits city departments and other interdependent agencies internally.
-- DEMS5: One benefit to smoothing out data management is allowing different city departments to share data with each other and collaborate more efficiently and effectively (e.g., in flood relief efforts).
+- DEMS5: One benefit to smoothing out data management is allowing different city departments to share data with each other and collaborate more efficiently and effectively (e.g., in flood relief efforts). ND5, too. 
 
 ### Tension can exist between the advisory role and library ethical obligations 
-- Will Saunders notes that libraries must be careful to convey user experience without compromising patron confidentiality (DEMS2: freedom to search without being tracked)
+- Will Saunders notes that libraries must be careful to convey user experience without compromising patron confidentiality (DEMS2: freedom to search without being tracked). 
+- ND5 noted the library took care not to publish location on timestamped checkout datasets, to avoid information that could lead to identification.
 - DEMS1 notes that public records requests are part of intellectual freedom and transparent government (which are important to patrons and part of library values), but they are also a strain on fellow public agencies (which the library advises). 
 
 ## Takeaways from carrying out curriculum
@@ -108,10 +112,10 @@
 ### What's gone well/what's enticing about offering open data curriculum 
 - Enthusiasm, engaged participants. DEMS4, DEMS7 (participants drove across town to attend)
 - Collaboration among libraries. DEMS2, DEMS9.
-- Participating helps libraries clarify the role of open data in future work. DEMS1
+- Participating helps libraries clarify the role of open data in future work. DEMS1, ND5
 - Curriculum is sound. DEMS9, DEMS3, (Open data basics especially, DEMS1)
 - Curriculum can be tailored to audience. DEMS9. Combining 1&2, 3&4, minimizing metadata worked well, DEMS7.
-- Staff are extremely enthusiastic and positive when they attend training, and staff attend in large numbers. DEMS5, DEMS8 also reports enthusiastic staff. 
+- Staff are extremely enthusiastic and positive when they attend training, and staff attend in large numbers. DEMS5, DEMS8 also reports enthusiastic staff. ND5, too. 
 - Treasure hunts, DEMS4
 - Mapping/vis tools DEMS4, DEMS7 
 - Analyzing deceptive visualization, DEMS4
@@ -122,7 +126,7 @@
 -  Constituencies without obvious research-driven user groups, e.g., academic institutions, businesses or other user groups that might want to use primary sources to answer research questions. DEMS1. ND2 believes a niche crowd would be interested, e.g., those who make public records requests now. ND3 not sure the service population would be research-driven to use open data.
 - Political cultural that doesn't fund or value any public institutions, DEMS3.
 - Library has fundamental strategic issues to address, such as talking to its public and government/community leaders, ND4.
-- Low attendance at classes for the public, especially relative to marketing effort. DEMS9, ND5, DEMS1, DEMS7, DEMS8 (general public classes)
+- Low attendance at classes for the public, especially relative to marketing effort. DEMS9, ND5 (even after extraordinary outreach), DEMS1, DEMS7, DEMS8 (general public classes)
 - Attendees had very specific issues to pursue, vs. general interest. DEMS1
 - Technical difficulties (wifi capacity, DEMS3), participants didn't have their own laptops (DEMS7, biz classes)
 - Open data isn't always easy to distinguish from other reference sources, some of which provide more context and (helpful, high-quality) interpretation. DEMS1
@@ -142,7 +146,7 @@
 ### Possible next steps
 - Classes for the general public, possibly around the fall election, perhaps to targeted users such as environmentalists. DEMS3
 - Perhaps another round of classes, but to targeted users: DEMS9
-- Offer future instruction to staff, DEMS5, DEMS10 
+- Offer future instruction to staff, DEMS5, DEMS10, ND5 (a possibility)
 - Develop measures for the impact of open data education, DEMS5.
 - Develop e-curriculum that can be embedded in a library site or an open data portal, DEMS5.
 - A new staff member may help advance open data efforts. DEMS3, DEMS5, DEMS9
@@ -160,7 +164,7 @@
 - Libraries are about information. DEMS2, DEMS6, DEMS5, DEMS9, DEMS8
 - Libraries are the original open source people. Open data is the library's future. DEMS9, DEMS5.
 - Open data is a new literacy, and libraries need to be on top of it. DEMS9, DEMS5, DEMS3. "We're giving people what they want if they knew about it," DEMS6.
-- Reference librarians and other key staff should absolutely be trained on open data. DEMS1, DEMS9, DEMS7
+- Reference librarians and other key staff should absolutely be trained on open data. DEMS1, DEMS9, DEMS7, (ND5, note success of staff training for these librarians)
 - Open data advances a better publishing ecosystem, one that doesn't hide information behind proprietary walls. DEMS1
 
 ## Suggestions about how to support open data efforts at public libraries 
@@ -184,6 +188,7 @@
 - DEMS4 (Alpha)
 - DEMS7 (Beta)
 - DEMS8 (Alpha)
+- ND5 (own curriculum)
 ### to targeted group among public
 - Business (DEMS7)
 ### to library staff 
@@ -193,6 +198,7 @@
 - DEMS6 (starting in July)
 - DEMS3 (spring 2018)
 - DEMS8 (Fall 2018, mixed with public attendees)
+- ND5 (extremely well attended and successful)
 ### to publishing agencies
 - DEMS2 (presentation to city departments)
 ### hopes to conduct classes by December 2018
@@ -201,8 +207,8 @@
 ### interest in open-data curriculum
 - ND1
 - ND2 especially if local government launches open data 
-### no firm plans for future classes
-- DEMS7, DEMS4
+### no firm plans for future public classes
+- DEMS7, DEMS4, ND5
 
 ## Libraries publishing open data
 - ND5
@@ -221,6 +227,7 @@ DEMS1, DEMS2, DEMS3, DEMS6, DEMS7, DEMS8, ND3
 - DEMS9. The government and the library are also talking about sharing a data-related position.
 ### Libraries that have informally talked to local officials about open data publishing, and would be open to advocating for open data/better data with government. 
 - Many localities will only undertake open data to avoid the pain of dealing with public records requests, DEMS1 said. When data is available by default through open data, "Instead of pulling a thousand records over the course of two years for a person, they could just write a letter back and say, 'It is available to you right here. Does that meet your information request?' Check! Done! ...That's the value case. ...[Librarians] can be advocates for that, for sure.'' DEMS1
+- ND5
 ### Libraries with good working relationships with other agencies, interested in helping them publish open data (VISIT THESE)
 - DEMS8
 - ND6
