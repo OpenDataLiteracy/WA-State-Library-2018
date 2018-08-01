@@ -12,7 +12,7 @@
 
 ## What went well about classes? What could have gone better?
 - Open data is useful up to a point, DEMS8 said -- most especially when the information doesn't exist elsewhere, and when can work with the data and visualize it to tell a story. (DEMS8's "favorite thing" in the curriculum was a Hans Rosling video about using visualization to show changes in countries' income and overall life span.) 
-- The ongoing building project means DEMS7 couldn't focus as much on open data efforts. 
+- The ongoing building project means DEMS8 couldn't focus as much on open data efforts. 
 
 ## What sort of relationship does the library have with local government and community groups?
 - DEMS8 regular attends Rotary meetings or other events with community leaders such as the police chief, does a radio show occasionally with a county commissioners and has collaborated closely with schools (even has a branch in one school) and the local port on such projects as bringing broadband to the area.
