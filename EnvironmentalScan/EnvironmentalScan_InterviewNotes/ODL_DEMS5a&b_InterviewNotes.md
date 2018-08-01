@@ -1,6 +1,6 @@
 #  ODL Environmental Scan: DEMS5a&b Interview Notes
 
-*DEMS5a & DEMS5b are innovations director and web librarian for a California municipal public library serving about 1 million people. The city and surrounding county both have open data portals. The area has many colleges and universities, tech employers and a Code for America chapter.*
+*DEMS5a & DEMS5b are innovations manager and web librarian for a California municipal public library serving about 1 million people. The city and surrounding county both have open data portals. The area has many colleges and universities, tech employers and a Code for America chapter.*
 
 ## Has the library worked with the city on its open data portal?
 - The library has expressed interest in such a partnership, to improve the city's open data once, as well as offer continued training and support. 
