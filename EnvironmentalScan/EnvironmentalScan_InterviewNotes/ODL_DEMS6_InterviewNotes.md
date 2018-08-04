@@ -1,7 +1,7 @@
 #  ODL Environmental Scan: DEMS6 Interview Notes
 *Interview conducted via Zoom on 2018-07-19*
 
-*DEMS6 is the director a Washington State municipal library serving 25K-100K people. The library's city doesn't publish open data; the county and its largest city publish limited open data (GIS). A university-community partnership has produced an extensive data portal for the county, using various public datasets.*
+*DEMS6 is the director a Washington State municipal library serving 25K-100K people. The library's city doesn't publish open data; the county and its largest city publish limited open data (GIS). A university-community partnership has produced an extensive data portal for the county, using mostly federal and state public datasets.*
 
 ## What is the library's service population like?
 - The city and surrounding area has historical connection to scientific military projects, and much of the population has at least a bachelor's degree. The library prioritizes STEAM (science, technology, engineering, art and math) curriculum, in staffing (STEAM coordinator), facilities (STEAM space) and equipment (virtual reality goggles, three 3D printers). The emphasis with these programs is education (understanding anatomy), not only entertainment.
@@ -9,10 +9,10 @@
 ## How did the library become involved in Data Equity for Main Street?
 - DEMS6 got a group email, possibly through Washington State Library.
 - DEMS6 was interested in a way to educate citizens and improve the library's own command of data, to demonstrate the library's value to the community or grantmakers.
-- Data Equity was the first time such an opportunity had come up, and it "just what was needed, when it was needed," DEMS6 said.
+- Data Equity was the first time such an opportunity had come up, and it was "just what was needed, when it was needed," DEMS6 said.
 
 ## What Data Equity activities has the library undertaken?
-- DEM6 attended training in Sacramento and is now using the curriculum to train key staff, such as reference and computer literacy librarians.
+- DEMS6 attended training in Sacramento and is now using the curriculum to train key staff, such as reference and computer literacy librarians. Training so far has been so successful that DEMS6 has decided to train all the staff, in small groups.
 - DEMS6 hopes to conduct classes for the general public in September.
 - DEMS6 says there are opportunities, too, to fold the curriculum into existing programming such as STEAM or health literacy. 
 
