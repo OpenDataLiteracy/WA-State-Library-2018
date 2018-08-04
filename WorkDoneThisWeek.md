@@ -1,27 +1,28 @@
 # Work Done This Week
-# 27 July 2018
-*updated 27 July 2018*
+# 3 August 2018
+*updated 3 August 2018*
 
 *This file reflects the most recent activity. You can see previous weeks' activities by reviewing this file's history (click on the History tab above) which shows previous versions of the file.*
 
-
 ## Environmental Scan
-### Interviews 
-- Interviewed 3 Data Equity for Main Street libraries, 6 non-Data-Equity libraries
-- Reviewed recordings and updated notes from previous interviews
-- Sent questions by email to 1 non-Data-Equity library
-- Followed up on earlier emails to 4 non-DEMS libraries I haven't connected with
+- Finished reviewing all interview recordings, amending notes, sending notes out to sources for checking; incorporated any corrections and new information
+- Reviewed websites of 3 libraries not reached directly
+- Synthesized findings into memo
+- Continued cleaning spreadsheets about open data publishing by locality (Washington State), and public library statistics publishing by state libraries
+- Discussed findings and refined recommended next steps with Nic W. @ ODL
+- Discussed findings and recommended next steps with Cindy Aden & Evelyn Lindberg @ State Library
+- Interviewed staff at Washington State Archives about current grantmaking program for local records management
 
-### Research
-- Finished populating spreadsheet on open data portals by locality in WA
-- Finished populating spreadsheet on open-data publishing by state libraries (by Saturday)
+## Data Equity for Main Street
+- Created simple GitHub repository for Data Equity for Main Street Curriculum (through Aug. 4)
+- Met via videoconference with Data Equity leader Anne Neville (California State Library)
 
 ## Administrative/Documentation
-- Attend mandatory UW sexual harrassment prevention training
 - Updated Work Done This Week
 
 ## Next week
-- Will spend Monday and Tuesday reviewing findings and preparing memo on findings for ODL faculty, Evelyn L. @ state library; this will also address possible next steps and collaboration between ODL & State LIbrary
-- As I prepare findings memo, will start to clean spreadsheets of city/county open data & state library public library statistics publishing 
-- Meeting Aug. 1 with Cindy Aden to discuss findings & recommendations, seek input about any small holes to fill for final report & presentation
-- Spending Thursday & Friday assembling Data Equity curriculum repository
+- Sending notes from Aug. 2 interview to State Archives staff for review
+- Preparing Aug. 10 presentation
+- Generated Aug. 8 *Medium* post
+- Soliciting feedback on Data Equity repository 
+- Preparing final report for Washington State Library by Aug. 15
