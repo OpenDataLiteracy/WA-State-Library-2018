@@ -110,10 +110,10 @@
 ## Takeaways from carrying out curriculum
 
 ### What's gone well/what's enticing about offering open data curriculum 
-- Enthusiasm, engaged participants. DEMS4, DEMS7 (participants drove across town to attend)
+- Enthusiasm, engaged participants. DEMS4, DEMS7 (participants drove across town to attend), DEMS9
 - Collaboration among libraries. DEMS2, DEMS9.
 - Participating helps libraries clarify the role of open data in future work. DEMS1, ND5
-- Curriculum is sound. DEMS9, DEMS3, (Open data basics especially, DEMS1)
+- Curriculum is sound. DEMS7, DEMS2, DEMS9, DEMS3, (Open data basics especially, DEMS1)
 - Curriculum can be tailored to audience. DEMS9. Combining 1&2, 3&4, minimizing metadata worked well, DEMS7.
 - Staff are extremely enthusiastic and positive when they attend training, and staff attend in large numbers. DEMS5, DEMS8 also reports enthusiastic staff. ND5, too. 
 - Treasure hunts, DEMS4
@@ -121,7 +121,7 @@
 - Analyzing deceptive visualization, DEMS4
 
 ### Challenges in hosting open-data classes/concerns about investing in open data curriculum
-- Outreach/marketing is critical. DEMS5 Marketing was off the mark (DEMS7, biz-related classes marketed by a third party)
+- Outreach/marketing is critical DEMS5. Marketing was off the mark (DEMS7, biz-related classes marketed by a third party)
 - Time and capacity, always. DEMS2 (where the library and city are in a budget crisis and hiring freeze), DEMS3, DEMS8 (consumed by building project), ILS migration and other project (ND1), regular busy-ness (ND3)
 -  Constituencies without obvious research-driven user groups, e.g., academic institutions, businesses or other user groups that might want to use primary sources to answer research questions. DEMS1. ND2 believes a niche crowd would be interested, e.g., those who make public records requests now. ND3 not sure the service population would be research-driven to use open data.
 - Political cultural that doesn't fund or value any public institutions, DEMS3.
@@ -144,7 +144,7 @@
 - Agreement DEMS4
 
 ### Possible next steps
-- Classes for the general public, possibly around the fall election, perhaps to targeted users such as environmentalists. DEMS3
+- Classes for the general public, possibly around the fall election, perhaps to targeted users such as environmentalists. DEMS3, DEMS6
 - Perhaps another round of classes, but to targeted users: DEMS9
 - Offer future instruction to staff, DEMS5, DEMS10, ND5 (a possibility), ND6 (i.e, use training to be ready for drop-in questions)
 - Develop measures for the impact of open data education, DEMS5.
