@@ -204,6 +204,7 @@
 ### hopes to conduct classes by December 2018
 - Fall 2018? DEMS6
 - Fall 2018? DEMS3
+- DEMS2
 ### interest in open-data curriculum
 - ND1
 - ND2 especially if local government launches open data 
