@@ -1,4 +1,4 @@
-#  Environmental Scan Themes
+# Environmental Scan Themes
 
 ##  Signs of readiness
 
@@ -9,12 +9,12 @@
 - ND1's town has launched an open-govt initiative and published open data as part of this.
 - ND5's mayor directed all city departments to make data as accessible as possible.
 
-### Data-Equity and other open-data-services-participating libraries tend to be mid- and large-sized libraries.
-- 250k and more: DEMS4, DEMS5, DEMS9, ND5 [but two more WA library systems may join DEMS]
+### Data-Equity and other open-data-services-participating libraries come in various sizes.
+- 250k and more: DEMS4, DEMS5, DEMS9, ND5 [two more WA library systems may join DEMS]
 - 100K-250K:  DEMS2, DEMS3, DEMS7
 - 25K-100K: DEMS1, DEMS6 [two more library systems interested in joining DEMS]
 - 5K-25K: DEMS8, DEMS10
-- 5K and under: none
+- 5K and under: none. 
 
 ### Open data is often competing with other big projects or staff changes at libraries or publishing agencies.
 - DEMS9 says staff changes at agencies account in part for slowing progress on open data.
