@@ -5,6 +5,7 @@
     - Searching "open data" instead of "open data movement" only yielded more irrelevant results (27 total). 
     - Searching SU public libraries + open data movement yields slightly different list of 8 results (nothing new)
 - (DE "Libraries & education" OR DE "Libraries &amp; adult education" OR DE "Libraries &amp; continuing education" OR DE "Libraries &amp; distance education" OR DE "Libraries &amp; home schooling" OR DE "Libraries &amp; students") + open data = 1 result (2011, too broad and not current)
+- No results when searching known library open data projects, e.g., Open Data to Open Knowledge/Boston Public Library (other than initial grant award announcement) and Chattanooga's open data portal hosting.
 
 ## Library and Information Science Abstracts
 - (SU public libraries + SU open data)/limit since 2013, English = 14 results. One was an article I'd already found through LISS; the rest were irrelevant, dealing with non-public libraries and/or cataloging or other library internal data systems.
@@ -17,6 +18,8 @@
 
 ## ACM Digital Library
 - Tried various combinations of searches combining ("public libraries" OR "public library") and "open data," "data literacy," computer education -- limiting all since 2013. No results on point about public library roles in publishing, teaching or assisting in the publication of open government data; one article addressed the struggle among public libraries to define their future (Costantino et al., 2014) but wasn't on point. Search results likely reflect less experience searching in this database. 
+- Tried AuthorKW/library + AuthorKW/"open data" = 10 results, mostly about linked open data, or the role of digital libraries in advancing research. 
+- AuthorKW/library + AuthorKW/"open government" = 1, the SayogoWangYuli article, which is relevant but addresses public values for public libraries rather than library activities. 
 
 ## American Library Association, Reference & User Services Association, Public Library Association
 - Searched general ALA site and RUSA and PLA subsections for documentation about any role of public libraries in open government data. Found a webpage for recent training, but no other recent (since 2013) documentation other than [ALA's "Open Government" position page](http://www.ala.org/advocacy/govinfo/opengov). ACRL has a 2017 [*Curating Research Data* guide](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/9780838988596_crd_v1_OA.pdf), but this is geared toward research data and academic libraries.
@@ -26,6 +29,9 @@
 Google Advanced Search of Sunlight Foundation for (libraries + "open data") yielded a few pages concerning open government:
     - [Boston Public Library and OpenGov Voices](https://sunlightfoundation.com/2017/01/17/opengov-voices-making-open-data-more-accessible-three-lessons-from-boston/)
     - [Cleveland Public Library hosts unconference about govt transparency](https://sunlightfoundation.com/2016/09/12/opengov-voices-from-open-shelves-to-open-data-at-transparencycamp-2016/)
+    
+## Knight Foundation 
+- Used Google Advanced Search to search library + "open data" on site, which yielded the grants I already know about (e.g., Open Data to Open Knowledge, Data Equity for Main Street)
 
 
 
