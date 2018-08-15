@@ -9,7 +9,7 @@
 - Since young families make up a lot of the library's service population, events target school-age children (with such programming on heavy rotation during summer months). However, the library also has active older patrons who participate in book clubs and food events. The library also has Tech Tuesday drop-in events.
 
 ## How does the library interact with other public agencies?
-- ND6 has a hand in most local governing bodies, and members of local agencies (health department) sit on the library's board. The library works closely with schools, and ND6 sits on the local museum board. ND6 attends school board, city countcil and chamber of commerce meetings. 
+- ND6 has a hand in most local governing bodies, and members of local agencies (health department) sit on the library's board. The library works closely with schools, and ND6 sits on the local museum board. ND6 attends school board, city council and chamber of commerce meetings. 
 
 ## Does the library publish any data about itself?
 - No.
