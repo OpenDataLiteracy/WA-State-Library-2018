@@ -34,6 +34,9 @@ Google Advanced Search of Sunlight Foundation for (libraries + "open data") yiel
 - Used Google Advanced Search to search library + "open data" on site, which yielded the grants I already know about (e.g., Open Data to Open Knowledge, Data Equity for Main Street)
 
 
+## Articles with link only
+- Laird, L. (2018). Abuses revealed of watchdog public-records laws. *ABA Journal, 104*(3), 4.
+
 
 
 
