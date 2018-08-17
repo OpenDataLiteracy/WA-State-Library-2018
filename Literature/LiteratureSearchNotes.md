@@ -1,5 +1,7 @@
 #  Literature Search Notes
 
+*This folder houses literature related to my research on open data activities at public libraries, and local government open data publishing. Below are notes about how and where I searched.*
+
 ## Library and Information Science Source
 - (DE "Public libraries" OR DE "Adult services in public libraries" OR DE "Central libraries" OR DE "Community-school libraries" OR DE "Regional libraries" OR DE "Rural libraries") + (TX or SU) open data movement = 5 results (mostly relevant)
     - Searching "open data" instead of "open data movement" only yielded more irrelevant results (27 total). 
