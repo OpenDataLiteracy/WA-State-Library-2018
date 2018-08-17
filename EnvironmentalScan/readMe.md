@@ -2,5 +2,5 @@
 
 *This folder houses material from my research about open data activites at public libraries and local government open data publishing. As a side project, I also compared public library statistics publishing by U.S. state libraries.*
 
-*Follow subfolder titles to view interview protocols, notes on research methods and other foundational material; interview notes and other notes; and findings, including spreadsheets and data dictionaries, emerging themes, quotes and preliminary findings.*
+*Follow subfolder titles to view interview protocols, notes on research methods and other foundational material; notes on interviews and other research; and findings, including spreadsheets and data dictionaries, emerging themes, quotes and preliminary findings.*
 
