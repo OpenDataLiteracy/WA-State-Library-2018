@@ -2,7 +2,7 @@
 
 Interview conducted 23 July 2018
 
-*ND2 is the director of a municipal library serving about 55K people, between the city itself and some patrons from the surrounding county. Neither the city nor the surrounding county publishes open data.*
+*ND2 is the director of a municipal library serving about 55K people, between the city itself and some patrons from the surrounding county. The city does not publish open data; the county publishes very limited GIS open data.*
 
 ## What is the library's service community like?
 - ND2 describes the area as an "industrial town" that is becoming more of a retirement community. The local economy has not bounced back as much as the economy generally. The Latino population has grown and may be about 10 percent of the community now. The area also has a smaller Southeast Asian immigrant community, although many of these households arrived in the '70s and '80s. 
